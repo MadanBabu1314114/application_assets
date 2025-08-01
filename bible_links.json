@@ -1,0 +1,606 @@
+[
+  {
+    "version_name": "ACV: A Conservative Version",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/ACV.db",
+    "language": "English"
+  },
+  {
+    "version_name": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/KJV.db",
+    "language": "English"
+  },
+  {
+    "version_name": "AKJV: American King James Version",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/AKJV.db",
+    "language": "English"
+  },
+  {
+    "version_name": "ASV: American Standard Version",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/ASV.db",
+    "language": "English"
+  },
+  {
+    "version_name": "Alb: Albanian Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Alb.db",
+    "language": "Albanian"
+  },
+  
+  
+  {
+    "version_name": "BBE: Bible in Basic English",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/BBE.db",
+    "language": "English"
+  },
+  {
+    "version_name": "BSB: Berean Study Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/BSB.db",
+    "language": "English"
+  },
+ 
+  {
+    "version_name": "BurJudson: Judson Burmese Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/BurJudson.db",
+    "language": "Burmese"
+  },
+  
+  
+  {
+    "version_name": "CSlElizabeth: Elizabeth Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/CSlElizabeth.db",
+    "language": "Church Slavonic"
+  },
+  {
+    "version_name": "CebPinadayag: Cebuano Pinadayag",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/CebPinadayag.db",
+    "language": "Cebuano"
+  },
+  
+  {
+    "version_name": "ChiSB: Chinese Union Simplified Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/ChiSB.db",
+    "language": "Chinese (Simplified)"
+  },
+  {
+    "version_name": "ChiUn: Chinese Union Version",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/ChiUn.db",
+    "language": "Chinese"
+  },
+  {
+    "version_name": "ChiUnL: Chinese Union Version (Traditional)",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/ChiUnL.db",
+    "language": "Chinese (Traditional)"
+  },
+  {
+    "version_name": "CopSahBible2: Coptic Sahidic Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/CopSahBible2.db",
+    "language": "Coptic"
+  },
+  {
+    "version_name": "CroSaric: Croatian Šarić Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/CroSaric.db",
+    "language": "Croatian"
+  },
+  {
+    "version_name": "CzeBKR: Czech Bible Kralická",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/CzeBKR.db",
+    "language": "Czech"
+  },
+  {
+    "version_name": "CzeCSP: Czech Český studijní překlad",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/CzeCSP.db",
+    "language": "Czech"
+  },
+  {
+    "version_name": "DRC: Douay-Rheims Challoner Revision",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/DRC.db",
+    "language": "English"
+  },
+  {
+    "version_name": "DaOT1871NT1907: Danish Bible (OT 1871, NT 1907)",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/DaOT1871NT1907.db",
+    "language": "Danish"
+  },
+  {
+    "version_name": "Darby: Darby Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Darby.db",
+    "language": "English"
+  },
+  {
+    "version_name": "DutSVV: Dutch Statenvertaling",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/DutSVV.db",
+    "language": "Dutch"
+  },
+  {
+    "version_name": "DutSVVA: Dutch Statenvertaling Apocrypha",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/DutSVVA.db",
+    "language": "Dutch"
+  },
+  {
+    "version_name": "Esperanto: Esperanto Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Esperanto.db",
+    "language": "Esperanto"
+  },
+  {
+    "version_name": "Est: Estonian Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Est.db",
+    "language": "Estonian"
+  },
+  {
+    "version_name": "FinBiblia: Finnish Biblia",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/FinBiblia.db",
+    "language": "Finnish"
+  },
+  {
+    "version_name": "FinPR: Finnish Pyhä Raamattu",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/FinPR.db",
+    "language": "Finnish"
+  },
+  {
+    "version_name": "FinSTLK2017: Finnish STL 2017",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/FinSTLK2017.db",
+    "language": "Finnish"
+  },
+  {
+    "version_name": "FreBBB: French Bible de la Bible des Bibles",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/FreBBB.db",
+    "language": "French"
+  },
+  {
+    "version_name": "FreBDM1744: French Bible David Martin 1744",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/FreBDM1744.db",
+    "language": "French"
+  },
+  {
+    "version_name": "FreCrampon: French Crampon Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/FreCrampon.db",
+    "language": "French"
+  },
+  
+  {
+    "version_name": "FreJND: French J.N. Darby Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/FreJND.db",
+    "language": "French"
+  },
+   
+  {
+    "version_name": "FreOltramare1874: French Oltramare 1874",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/FreOltramare1874.db",
+    "language": "French"
+  },
+  {
+    "version_name": "FrePGR: French Perret-Gentil et Rilliet",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/FrePGR.db",
+    "language": "French"
+  },
+  
+  
+  {
+    "version_name": "Geneva1599: Geneva Bible 1599",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Geneva1599.db",
+    "language": "English"
+  },
+  
+  {
+    "version_name": "GerBoLut: German BOLUT Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/GerBoLut.db",
+    "language": "German"
+  },
+  {
+    "version_name": "GerElb1871: German Elberfelder 1871",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/GerElb1871.db",
+    "language": "German"
+  },
+  {
+    "version_name": "GerElb1905: German Elberfelder 1905",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/GerElb1905.db",
+    "language": "German"
+  },
+  {
+    "version_name": "GerGruenewald: German Grünewald Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/GerGruenewald.db",
+    "language": "German"
+  },
+   
+  {
+    "version_name": "GerMenge: German Menge Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/GerMenge.db",
+    "language": "German"
+  },
+  
+  {
+    "version_name": "GerSch: German Schlachter Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/GerSch.db",
+    "language": "German"
+  },
+  
+  {
+    "version_name": "GerTextbibel: German Textbibel",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/GerTextbibel.db",
+    "language": "German"
+  },
+  {
+    "version_name": "GerZurcher: German Zürcher Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/GerZurcher.db",
+    "language": "German"
+  },
+  {
+    "version_name": "GreVamvas: Greek Vamvas Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/GreVamvas.db",
+    "language": "Greek"
+  },
+  {
+    "version_name": "Haitian: Haitian Creole Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Haitian.db",
+    "language": "Haitian Creole"
+  },
+  
+  {
+    "version_name": "HebModern: Modern Hebrew Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/HebModern.db",
+    "language": "Hebrew"
+  },
+  {
+    "version_name": "HunKar: Hungarian Károli Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/HunKar.db",
+    "language": "Hungarian"
+  },
+  {
+    "version_name": "JPS: Jewish Publication Society Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/JPS.db",
+    "language": "English"
+  },
+
+  {
+    "version_name": "Afrikaans: Afrikaans Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Afrikaans.db",
+    "language": "Afrikaans"
+  },
+  {
+    "version_name": "Bengali: Bengali Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Bengali.db",
+    "language": "Bengali"
+  },
+  {
+    "version_name": "Hindi: Hindi Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Hindi.db",
+    "language": "Hindi"
+  },
+   
+  {
+    "version_name": "Gujarati: Gujarati Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Gujarati.db",
+    "language": "Gujarati"
+  },
+  {
+    "version_name": "Xhosa: Xhosa Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Xhosa.db",
+    "language": "Xhosa"
+  },
+  {
+    "version_name": "Zulu: Zulu Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Zulu.db",
+    "language": "Zulu"
+  }
+,
+  {
+    "version_name": "Kannada: Kannada Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Kannada.db",
+    "language": "Kannada"
+  },
+  {
+    "version_name": "Marathi: Marathi Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Marathi.db",
+    "language": "Marathi"
+  },
+  {
+    "version_name": "Nepali: Nepali Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Nepali.db",
+    "language": "Nepali"
+  },
+  {
+    "version_name": "Oryia: Oryia Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Oryia.db",
+    "language": "Oryia"
+  },
+  {
+    "version_name": "Punjabi: Punjabi Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Punjabi.db",
+    "language": "Punjabi"
+  },
+  {
+    "version_name": "Sapedi: Sapedi Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Sapedi.db",
+    "language": "Sapedi"
+  },
+  {
+    "version_name": "Tamil: Tamil Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Tamil.db",
+    "language": "Tamil"
+  },
+  {
+    "version_name": "JapBungo: Japanese Classical Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/JapBungo.db",
+    "language": "Japanese"
+  },
+  
+  {
+    "version_name": "JapKougo: Japanese Colloquial Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/JapKougo.db",
+    "language": "Japanese"
+  },
+  {
+    "version_name": "Jubilee2000: Jubilee Bible 2000",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Jubilee2000.db",
+    "language": "English"
+  },
+  {
+    "version_name": "KJVA: King James Version with Apocrypha",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/KJVA.db",
+    "language": "English"
+  },
+  {
+    "version_name": "KJVPCE: King James Version Pure Cambridge Edition",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/KJVPCE.db",
+    "language": "English"
+  },
+  {
+    "version_name": "KLV: Korean Living Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/KLV.db",
+    "language": "Korean"
+  },
+  {
+    "version_name": "KorHKJV: Korean HKJV Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/KorHKJV.db",
+    "language": "Korean"
+  },
+  {
+    "version_name": "KorRV: Korean Revised Version",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/KorRV.db",
+    "language": "Korean"
+  },
+  {
+    "version_name": "LEB: Lexham English Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/LEB.db",
+    "language": "English"
+  },
+  
+  {
+    "version_name": "LvGluck8: Latvian Glück Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/LvGluck8.db",
+    "language": "Latvian"
+  },
+  {
+    "version_name": "MKJV: Modern King James Version",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/MKJV.db",
+    "language": "English"
+  },
+  {
+    "version_name": "Mal1910: Malayalam Bible 1910",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Mal1910.db",
+    "language": "Malayalam"
+  },
+  {
+    "version_name": "ManxGaelic: Manx Gaelic Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/ManxGaelic.db",
+    "language": "Manx Gaelic"
+  },
+  {
+    "version_name": "Maori: Maori Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Maori.db",
+    "language": "Maori"
+  },
+  {
+    "version_name": "MapM: Mapudungun Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/MapM.db",
+    "language": "Mapudungun"
+  },
+  {
+    "version_name": "Mg1865: Malagasy Bible 1865",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Mg1865.db",
+    "language": "Malagasy"
+  },
+  {
+    "version_name": "NHEB: New Heart English Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/NHEB.db",
+    "language": "English"
+  },
+  {
+    "version_name": "NHEBJE: New Heart English Bible with Jehovah's Name",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/NHEBJE.db",
+    "language": "English"
+  },
+  {
+    "version_name": "NHEBME: New Heart English Bible Messianic Edition",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/NHEBME.db",
+    "language": "English"
+  },
+  {
+    "version_name": "NlCanisius1939: Dutch Canisius Bible 1939",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/NlCanisius1939.db",
+    "language": "Dutch"
+  },
+  {
+    "version_name": "NorSMB: Norwegian Sami Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/NorSMB.db",
+    "language": "Sami"
+  },
+  {
+    "version_name": "Norsk: Norwegian Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Norsk.db",
+    "language": "Norwegian"
+  },
+   
+  
+  
+   
+  
+  {
+    "version_name": "PolGdanska: Polish Gdańska Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/PolGdanska.db",
+    "language": "Polish"
+  },
+  {
+    "version_name": "PolUGdanska: Polish Updated Gdańska Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/PolUGdanska.db",
+    "language": "Polish"
+  },
+  {
+    "version_name": "PorBLivre: Portuguese Bíblia Livre",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/PorBLivre.db",
+    "language": "Portuguese"
+  },
+  {
+    "version_name": "PorBLivreTR: Portuguese Bíblia Livre Textus Receptus",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/PorBLivreTR.db",
+    "language": "Portuguese"
+  },
+  {
+    "version_name": "PorNVA: Portuguese Nova Almeida Atualizada",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/PorNVA.db",
+    "language": "Portuguese"
+  },
+  {
+    "version_name": "RLT: Revised Literal Translation",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/RLT.db",
+    "language": "English"
+  },
+  {
+    "version_name": "RNKJV: Revised New King James Version",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/RNKJV.db",
+    "language": "English"
+  },
+  {
+    "version_name": "RWebster: Webster's Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/RWebster.db",
+    "language": "English"
+  },
+  {
+    "version_name": "Rotherham: Rotherham's Emphasized Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Rotherham.db",
+    "language": "English"
+  },
+  {
+    "version_name": "RusMakarij: Russian Makarij Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/RusMakarij.db",
+    "language": "Russian"
+  },
+  {
+    "version_name": "RusSynodal: Russian Synodal Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/RusSynodal.db",
+    "language": "Russian"
+  },
+  
+  {
+    "version_name": "SloChraska: Slovenian Čraška Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/SloChraska.db",
+    "language": "Slovenian"
+  },
+  {
+    "version_name": "SloKJV: Slovenian KJV",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/SloKJV.db",
+    "language": "Slovenian"
+  },
+   
+ 
+ 
+  {
+    "version_name": "SpaRV: Spanish Reina-Valera",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/SpaRV.db",
+    "language": "Spanish"
+  },
+  {
+    "version_name": "SpaRV1865: Spanish Reina-Valera 1865",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/SpaRV1865.db",
+    "language": "Spanish"
+  },
+  
+  {
+    "version_name": "SrKDEkavski: Serbian Ekavian Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/SrKDEkavski.db",
+    "language": "Serbian"
+  },
+  {
+    "version_name": "SrKDIjekav: Serbian Ijekavian Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/SrKDIjekav.db",
+    "language": "Serbian"
+  },
+  
+  {
+    "version_name": "Swe1917: Swedish 1917 Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Swe1917.db",
+    "language": "Swedish"
+  },
+ 
+  {
+    "version_name": "SweKarlXII1873: Swedish Karl XII Bible 1873",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/SweKarlXII1873.db",
+    "language": "Swedish"
+  },
+  
+  {
+    "version_name": "TagAngBiblia: Tagalog Ang Biblia",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/TagAngBiblia.db",
+    "language": "Tagalog"
+  },
+   
+  {
+    "version_name": "Teb: Telugu Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Teb.db",
+    "language": "Telugu"
+  },
+  
+  {
+    "version_name": "ThaiKJV: Thai King James Version",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/ThaiKJV.db",
+    "language": "Thai"
+  },
+  {
+    "version_name": "TpiKJPB: Tok Pisin King James Pidgin Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/TpiKJPB.db",
+    "language": "Tok Pisin"
+  },
+  
+   
+  {
+    "version_name": "UKJV: Updated King James Version",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/UKJV.db",
+    "language": "English"
+  },
+  
+  {
+    "version_name": "Viet: Vietnamese Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Viet.db",
+    "language": "Vietnamese"
+  },
+  
+  
+ 
+  {
+    "version_name": "Vulgate: Vulgate Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Vulgate.db",
+    "language": "Latin"
+  },
+  {
+    "version_name": "WLC: Westminster Leningrad Codex",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/WLC.db",
+    "language": "Hebrew"
+  },
+  {
+    "version_name": "Webster: Webster's Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Webster.db",
+    "language": "English"
+  },
+   
+  {
+    "version_name": "Wycliffe: Wycliffe Bible",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/Wycliffe.db",
+    "language": "English"
+  },
+  {
+    "version_name": "YLT: Young's Literal Translation",
+    "version_link": "https://github.com/MadanBabu1314114/poly_bible_included_versions_languages_database/raw/refs/heads/master/YLT.db",
+    "language": "English"
+  }
+   
+  
+]
