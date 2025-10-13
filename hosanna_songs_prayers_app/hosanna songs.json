@@ -214,10 +214,10 @@
         "english": "Noothana Yerushalemu Pattanamu"
       },
       "metadata": {
-        "scale": "C Major",
+        "scale": "C Minor",
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "https://www.youtube.com/watch?v=jha9MlZg7QQ",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/05-Mahimaswarupuda/036%20Nuthana%20Yerushalemu.mp3",
         "refrain": {
           "telugu": "||నూతన||",
           "transliteration": "||Noothana||"
@@ -407,7 +407,7 @@
         "scale": "F Minor",
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "https://www.youtube.com/watch?v=Abc8vodZpbU",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/06-NAA%20SRUTHI%20PAATRUDU/043%20Stuthi%20patruda.mp3",
         "refrain": {
           "telugu": "||స్తుతి||",
           "transliteration": "||Sthuthi||"
@@ -723,74 +723,86 @@
       ]
     }
   },
-  {
-    "song": {
-      "title": {
-        "telugu": "యేసయ్యా నా ప్రియా – ఎపుడో నీ రాకడ సమయం",
-        "english": "Yesayya Naa Priya – Epudo Nee Raakada Samayam"
+ {
+  "song": {
+    "title": {
+      "telugu": "యేసయ్యా నా ప్రియా – ఎపుడో నీ రాకడ సమయం",
+      "english": "Yesayya Naa Priya – Epudo Nee Raakada Samayam"
+    },
+    "metadata": {
+      "scale": "F Minor",
+      "language": "Telugu",
+      "category": "Christian Worship",
+      "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/01-KRUPAMAYUDU/06%20-%20Yesayya%20Na%20Priya.mp3",
+      "refrain": {
+        "telugu": "యేసయ్యా",
+        "transliteration": "Yesayya"
+      }
+    },
+    "sections": [
+      {
+        "sectionType": "chorus",
+        "number": 1,
+        "telugu": [
+          "యేసయ్యా నా ప్రియా!",
+          "ఎపుడో నీ రాకడ సమయం"
+        ],
+        "transliteration": [
+          "Yesayya Naa Priya!",
+          "Epudo Nee Raakada Samayam"
+        ]
       },
-      "metadata": {
-        "scale": "F Minor",
-        "language": "Telugu",
-        "category": "Christian Worship",
-        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/01-KRUPAMAYUDU/06%20-%20Yesayya%20Na%20Priya.mp3",
-        "refrain": {
-          "telugu": "యేసయ్యా",
-          "transliteration": "Yesayya"
-        }
+      {
+        "sectionType": "verse",
+        "number": 1,
+        "telugu": [
+          "దురవస్థలలో ఒంటరినై",
+          "దుమికి ధూళిగా మారినను",
+          "దూరాన నీ ముఖ దర్శనము",
+          "ధృవతారగ నాలో వెలిగెనే"
+        ],
+        "transliteration": [
+          "Duravasthalalo Ontarinai",
+          "Dumiki Dhooliga Maarinanu",
+          "Doorana Nee Mukha Darshanamu",
+          "Dhruvatharaga Naalo Veligene"
+        ]
       },
-      "sections": [
-        {
-          "sectionType": "chorus",
-          "number": 1,
-          "telugu": [
-            "యేసయ్యా నా ప్రియా – ఎపుడో నీ రాకడ సమయం",
-            "యేసయ్యా నా ప్రియా – ఎపుడో నీ రాకడ సమయం"
-          ],
-          "transliteration": [
-            "Yesayya Naa Priya – Epudo Nee Raakada Samayam",
-            "Yesayya Naa Priya – Epudo Nee Raakada Samayam"
-          ]
-        },
-        {
-          "sectionType": "verse",
-          "number": 1,
-          "telugu": [
-            "దురవస్థలలో ఒంటరినై",
-            "దుమికి ధూళిగా మారినను"
-          ],
-          "transliteration": [
-            "Duravasthalalo Ontarinai",
-            "Dumiki Dhooriga Maarinanu"
-          ]
-        },
-        {
-          "sectionType": "verse",
-          "number": 2,
-          "telugu": [
-            "మరపురాని నిందలలో",
-            "మనసున మండే మంటలలో"
-          ],
-          "transliteration": [
-            "Marapurani Nindalalo",
-            "Manasuna Mande Mantalalo"
-          ]
-        },
-        {
-          "sectionType": "verse",
-          "number": 3,
-          "telugu": [
-            "ప్రియుడా నిన్ను చూడాలని",
-            "ప్రియ నivali మారాలని"
-          ],
-          "transliteration": [
-            "Priyuda Ninnu Choodalani",
-            "Priya Neevalene Maaralani"
-          ]
-        }
-      ]
-    }
-  },
+      {
+        "sectionType": "verse",
+        "number": 2,
+        "telugu": [
+          "మరపురాని నిందలలో",
+          "మనసున మండే మంటలలో",
+          "మమతను చూపిన నీ శిలువను",
+          "మరచిపోదునా నీ రాకను"
+        ],
+        "transliteration": [
+          "Marapurani Nindalalo",
+          "Manasuna Mande Mantalalo",
+          "Mamatanu Choopina Nee Shiluvanu",
+          "Marachipoduna Nee Raakanu"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 3,
+        "telugu": [
+          "ప్రియుడా నిన్ను చూడాలని",
+          "ప్రియ నీవలెనే మారాలని",
+          "ప్రియతమా నాకాంక్ష తీరాలని",
+          "ప్రియమార నామది కోరెనే"
+        ],
+        "transliteration": [
+          "Priyuda Ninnu Choodalani",
+          "Priya Neevalene Maaralani",
+          "Priyathama Naakanksha Teeralani",
+          "Priyamaara Naamadi Koreene"
+        ]
+      }
+    ]
+  }
+},
   {
     "song": {
       "title": {
@@ -1309,7 +1321,7 @@
         "scale": "G Minor",
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "https://www.youtube.com/watch?v=AYrEu0NBnD4",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/02-MAHONNATUDA/O%20PRABHUVA%20.mp3",
         "refrain": {
           "telugu": "|| ఓ ప్రభువా ||",
           "transliteration": "|| O Prabhuvaa ||"
@@ -1389,7 +1401,7 @@
         "scale": "F Minor",
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "https://www.youtube.com/watch?v=9SLjwkIda54",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/27%20Veejayasiluda/2%20Naa%20jeevam%20ni%20krupa%20lo.mp3",
         "refrain": {
           "telugu": "|| నా జీవం ||",
           "transliteration": "|| Naa Jeevam ||"
@@ -2424,7 +2436,7 @@
         "scale": "D Major",
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "https://www.youtube.com/watch?v=Oh36AlrVtj0",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/04-Aaschakarudu/028%20Dheva%20na%20dhevudavu.mp3",
         "refrain": {
           "telugu": "|| దేవా ||",
           "transliteration": "|| Devaa ||"
@@ -3830,7 +3842,7 @@
         "scale": "F Minor",
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/07-NAA%20YESU%20RAJA/048%20Nayesurajaa.mp34",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/07-NAA%20YESU%20RAJA/048%20Nayesurajaa.mp3",
         "refrain": {
           "telugu": "|| నా యేసు రాజా ||",
           "transliteration": "|| Naa Yesu Raajaa ||"
@@ -4213,7 +4225,7 @@
           "telugu": [
             "ఈ ఒంటరి పయనంలో నా జీవితానికి ఆశ్రయ దుర్గము నీవే",
             "నాలోనే నీ ఉండుము, నీలోనే నను దాయుము"
-          ],
+          ],                                                                                    
           "transliteration": [
             "Ee Ontari Payanalo Naa Jeevithaniki Aashraya Durgamu Neeve",
             "Naalonee Nee Undumu, Neelonee Nanu Daayumu"
