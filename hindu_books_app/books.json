@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Bhagavad Gita",
+        "description": "Sacred scripture of Sanathana Dharma.",
+        "imageUrl": "https://gitawisdom.org/wp-content/uploads/2017/05/krishna-and-arjuna.jpg",
+        "pdfUrl": "https://www.freegurukul.org/e-Books/06-MahaBharatham/MB074-SampoornaAndhraMahaBharatham-1To15Parts.pdf"
+    },
+    {
+        "title": "Upanishads",
+        "description": "Ancient philosophical texts of India.",
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_tmWS9k6SuUCzYHHkPEBWOThXI4pKkjDtyA3pcfZ1DMPxm5gNYWPlYQfGI5mSaDMBQDvXROW7QQN4wgmPVVA6MmQp2I0_PiUj5hnQPEbiCYy6rzzxB9UAQmWH6QNRtIHEf89IQZPvi3A/s1600/Amazing+Facts+about+Upanishads+Hindu+Rishis.jpg",
+        "pdfUrl": "https://www.freegurukul.org/e-Books/09-Bhagavatham/BH099-SampoornaPotanaBhagavatam-1To5.pdf"
+    },
+    {
+        "title": "Ramayana",
+        "description": "The epic of Lord Rama’s journey.",
+        "imageUrl": "https://www.templepurohit.com/wp-content/uploads/2018/08/Ramayana-Story-Summary.jpg",
+        "pdfUrl": "https://www.freegurukul.org/e-Books/05-Ramayanam/RA032-Ramayanam.pdf"
+    }
+]
