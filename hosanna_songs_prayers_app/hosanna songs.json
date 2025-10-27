@@ -4324,7 +4324,7 @@
         "scale": "C Minor",
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "https://www.youtube.com/watch?v=yPVWPAhtrUM",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/07-NAA%20YESU%20RAJA/%E0%B0%8E%E0%B0%B5%E0%B0%B0%E0%B1%81%E0%B0%A8%E0%B1%8D%E0%B0%A8%E0%B0%BE%E0%B0%B0%E0%B1%81%20%E0%B0%88%20%E0%B0%B2%E0%B1%8B%E0%B0%95%E0%B0%82%E0%B0%B2%E0%B1%8B%20%E0%B0%8E%E0%B0%B5%E0%B0%B0%E0%B1%81%E0%B0%A8%E0%B1%8D%E0%B0%A8%E0%B0%BE%E0%B0%B0%E0%B1%81%20%E0%B0%A8%E0%B0%BE%20%E0%B0%AF%E0%B0%BE%E0%B0%A4%E0%B1%8D%E0%B0%B0%E0%B0%B2%E0%B1%8B__Yevarunnaru%20ee%20lokamlo%20__Jesus%20song%20with%20lyric.mp3",
         "refrain": {
           "telugu": "|| ఎవరున్నారు ||",
           "transliteration": "|| Evarunnaru ||"
@@ -6554,7 +6554,7 @@
         "scale": "F Minor",
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/13-Parakramasali/097%20Nakenthoanadham%20&%20Vienulaku%20Vindhulu.mp3",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/13-Parakramasali/Nakentho%20Anandam%20%20__%20%E0%B0%A8%E0%B0%BE%E0%B0%95%E0%B1%86%E0%B0%82%E0%B0%A4%E0%B1%8B%20%E0%B0%86%E0%B0%A8%E0%B0%82%E0%B0%A6%E0%B0%82%20%20__%20Telugu%20Christian%20Song%20__%20Melody%20Song.mp3",
         "refrain": {
           "telugu": "|| నాకెంతో ఆనందం ||",
           "transliteration": "|| Naakento Aanandam ||"
@@ -6634,7 +6634,7 @@
         "scale": "F Major",
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "https://www.youtube.com/watch?v=some_video_link",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/13-Parakramasali/Veenulaku%20Vindulu%20chese%20Yesayya%20with%20Lyrics%20__%20%E0%B0%B5%E0%B1%80%E0%B0%A8%E0%B1%81%E0%B0%B2%E0%B0%95%E0%B1%81%20%E0%B0%B5%E0%B0%BF%E0%B0%82%E0%B0%A6%E0%B1%81%E0%B0%B2%E0%B1%81%20%E0%B0%9A%E0%B1%87%E0%B0%B8%E0%B1%87%20%E0%B0%AF%E0%B1%87%E0%B0%B8%E0%B0%AF%E0%B1%8D%E0%B0%AF.mp3",
         "refrain": {
           "telugu": "|| వీనులకు ||",
           "transliteration": "|| Veenulaku ||"
@@ -6882,7 +6882,7 @@
         "scale": "E Minor",
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "https: //github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/13-Parakramasali/100%20Na%20Dheapamu.mp3",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/13-Parakramasali/100%20Na%20Dheapamu.mp3",
         "refrain": {
           "telugu": "|| నా దీపము యేసయ్యా ||",
           "transliteration": "|| Naa deepamu Yesayya ||"
@@ -6960,7 +6960,7 @@
         "scale": "A Major",
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "https://www.youtube.com/watch?v=some_video_link",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/13-Parakramasali/101%20Na%20Margamunaku.mp3",
         "refrain": {
           "telugu": "|| నా మార్గం ||",
           "transliteration": "|| Naa Maargam ||"
@@ -7050,8 +7050,8 @@
         "category": "Christian Worship",
         "audioLink": "https://christianlyricz.com/2018/07/29/yehovaaye-naa-kaaparigaa/",
         "refrain": {
-          "telugu": "యెహోవాయే నా కాపరిగా నా యేసుతో సదా సాగేదా",
-          "transliteration": "Yehovaye Naa Kaaparigaa Naa Yesuto Sadaa Saagedaa"
+          "telugu": "|| యెహోవాయే ||",
+          "transliteration": "|| Yehovaye ||"
         }
       },
       "sections": [
@@ -7134,6 +7134,110 @@
       ]
     }
   },
+
+  {
+  "song": {
+    "title": {
+      "telugu": "ప్రేమా ప్రేమా ప్రేమా ప్రేమా",
+      "english": "Premaa Premaa Premaa Premaa"
+    },
+    "metadata": {
+      "scale": "",
+      "language": "Telugu",
+      "category": "Christian Worship",
+      "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/extra_songs/%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B1%87%E0%B0%AE%E0%B0%BE%20%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B1%87%E0%B0%AE%E0%B0%BE-%20%E0%B0%95%E0%B0%BE%E0%B0%B2%E0%B0%82%20%E0%B0%AE%E0%B0%BE%E0%B0%B0%E0%B0%BF%E0%B0%A8%20%E0%B0%A8%E0%B0%BE%20%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%AD%E0%B1%81%E0%B0%A8%E0%B0%BF%20%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B1%87%E0%B0%AE%20%E0%B0%AE%E0%B0%BE%E0%B0%B0%E0%B1%81%E0%B0%A8%E0%B0%BE%20_%20Prema%20Prema%20_%20TPM%20Telugu%20Chorus%20song%20-57.mp3",
+      "refrain": {
+        "telugu": "||ప్రేమా||",
+        "transliteration": "||Premaa||"
+      }
+    },
+    "sections": [
+      {
+        "sectionType": "chorus",
+        "number": 1,
+        "telugu": [
+          "ప్రేమా ప్రేమా ప్రేమా ప్రేమా",
+          "నా ప్రభుని ప్రేమా మారునా కాలం మారినా"
+        ],
+        "transliteration": [
+          "Premaa Premaa Premaa Premaa",
+          "Naa Prabhuni Premaa Maarunaa Kaalam Maarinaa"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 1,
+        "telugu": [
+          "తల్లివలే కౌగిటిల్లో ఉంచు కొని నను పెంచేనుగా",
+          "శత్రువగు అపవాది తంత్రము",
+          "ఏదిరించుటకు శక్తి నోసంగేను",
+          "మారదు మారదు మారదు"
+        ],
+        "transliteration": [
+          "Thallivale Kougitillo Unchukoni Nanu Penchenuga",
+          "Shathruvagu Apavaadhi Tantramu",
+          "Edirinchutaku Shakthi Nosangenu",
+          "Maaradhu Maaradhu Maaradhu"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 2,
+        "telugu": [
+          "సూర్య చంద్రులు మారినను",
+          "భూమి పునాదులు కదిలినను",
+          "సముద్రమే ముందుకు పొంగినను",
+          "యేసుని ప్రేమా నాపై ఏపుడు",
+          "మారదు మారదు మారదు"
+        ],
+        "transliteration": [
+          "Soorya Chandrulu Maarinanu",
+          "Bhoomi Punaadhulu Kadilinanu",
+          "Samudrame Munduku Ponginanu",
+          "Yesuni Premaa Naapai Epudu",
+          "Maaradhu Maaradhu Maaradhu"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 3,
+        "telugu": [
+          "పంచ భూతములు మహా వెండ్రమున",
+          "కరిగి నశించి పోయినను",
+          "ఆకాశముల మహాధ్వనులతో",
+          "చేయుచు వస్త్రముగా తోలిగినను",
+          "మారదు మారదు మారదు"
+        ],
+        "transliteration": [
+          "Pancha Bhoothamulu Mahaa Vendramuna",
+          "Karigi Nashinchi Poyinanu",
+          "Aakaashamula Mahaadhvanulatho",
+          "Cheyuchu Vasthramuga Tholiginanu",
+          "Maaradhu Maaradhu Maaradhu"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 4,
+        "telugu": [
+          "కాపరియై కృప చూపుచున్న",
+          "కాపడెను ప్రభు గత కాలం",
+          "కృతజ్ఞతతో స్తుతి స్తోత్రం చేసి",
+          "నిరిక్షింతును ప్రభు రాకడ వరకు",
+          "మారదు మారదు మారదు"
+        ],
+        "transliteration": [
+          "Kaapariyai Krupa Choopuchunna",
+          "Kaapadenu Prabhu Gatha Kaalam",
+          "Kruthajgnathatho Stuthi Stothram Chesi",
+          "Nirikshinthunu Prabhu Raakada Varaku",
+          "Maaradhu Maaradhu Maaradhu"
+        ]
+      }
+    ]
+  }
+}
+,
   {
     "song": {
       "title": {
@@ -7144,7 +7248,7 @@
         "scale": "D Minor",
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "https://christianlyricz.com/2016/07/27/hosannaa-hallelooyaa/",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/extra_songs/%E0%B0%B8%E0%B0%BF%E0%B0%B2%E0%B1%81%E0%B0%B5%E0%B0%B2%E0%B1%8B%20%E0%B0%A8%E0%B1%80%20%E0%B0%B0%E0%B1%82%E0%B0%AA%E0%B0%AE%E0%B1%87%20%E0%A5%A5%20Heart%20Touching%20Song%20%F0%9F%8E%B5%20Pas.Abraham%20anna%20Hosanna%20Ministries.mp3",
         "refrain": {
           "telugu": "సిలువలో నీ రూపమే",
           "transliteration": "Siluvalo Nee Roopame"
@@ -7210,7 +7314,7 @@
         "scale": "F Minor",
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "https://christianlyricz.com/2016/07/27/hosannaa-hallelooyaa/",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/extra_songs/Siluvalo%20aa%20siluvalo.mp3",
         "refrain": {
           "telugu": "|| సిలువలో ఆ సిలువలో ||",
           "transliteration": "|| Siluvalo Aa Siluvalo ||"
@@ -7310,7 +7414,7 @@
         "scale": "C Minor",
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "https://christianlyricz.com/2016/07/27/hosannaa-hallelooyaa/",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/extra_songs/Aarani%20prema%20idhi%20telugu%20christian%20song%20with%20lyrics__Dr.Amshumathi%20mary%20garu%20songs__%20%E0%B0%86%E0%B0%B0%E0%B0%A8%E0%B0%BF%20%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B1%87%E0%B0%AE%20%E0%B0%87%E0%B0%A6%E0%B0%BF.mp3",
         "refrain": {
           "telugu": "|| ఆరని ప్రేమ ఇది ||",
           "transliteration": "|| Aarani Prema Idi ||"
@@ -7798,7 +7902,7 @@
         "scale": "D Major",
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "https://christianlyricz.com/2017/08/02/naa-yesayyaa-naa-sthuthi-yaagam/",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/14-ANANTASTOTRARHUDA/06%20naa%20yessayya%20naa%20stuti%20yaamu.mp3",
         "refrain": {
           "telugu": "|| నా యేసయ్యా ||",
           "transliteration": "|| Naa Yesayya ||"
@@ -8428,7 +8532,7 @@
         "scale": "C# Minor",
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/Daya%20Shettram/Raja%20jagamerigina%20%E0%A5%A5%20%E0%B0%B0%E0%B0%BE%E0%B0%9C%20%E0%B0%9C%E0%B0%97%E0%B0%AE%E0%B1%86%E0%B0%B0%E0%B0%BF%E0%B0%97%E0%B0%BF%E0%B0%A8%20%E0%A5%A5%20Hosanna%20Ministries%202025%20New%20Album%20Song-2%20Bro.YESANNA%20garu%20-%20HOSANNA%20MINISTRIES%20OFFICIAL%20(2).mp3",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/35%20Daya%20Shettram/2%20Raja%20jagamerigina.mp3",
         "refrain": {
           "telugu": "|| రాజ ||",
           "transliteration": "|| Raaja ||"
@@ -10190,7 +10294,7 @@
         "scale": "F Minor",
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "https://www.youtube.com/watch?v=NVw5Q0IphpQ",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/19%20krupamrutam/7%20Uchahagaanamu.mp3",
         "refrain": {
           "telugu": "|| ఉత్సాహ గానము ||",
           "transliteration": "|| Utsaha gaanamu  ||"
@@ -10356,10 +10460,10 @@
         "scale": "Unknown",
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "https://www.youtube.com/watch?v=c3OBPf0WXVM",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/19%20krupamrutam/3%20Chuchuchunnaa%20.mp3",
         "refrain": {
-          "telugu": "చూచుచున్న దేవుడవు నీవే యేసయ్యా",
-          "transliteration": "Choochuchunna devudavu neeve Yesayya"
+          "telugu": "|| చూచుచున్న ||",
+          "transliteration": "|| Choochuchunna ||"
         }
       },
       "sections": [
@@ -10664,7 +10768,7 @@
         "scale": "D Minor",
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "https://www.youtube.com/watch?v=WPb0T0NGCEI",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/19%20krupamrutam/6%20Siyonu%20raraju.mp3",
         "refrain": {
           "telugu": "|| సీయోను || ",
           "transliteration": "||  Siyonu ||"
@@ -10997,7 +11101,11 @@
       "metadata": {
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "https://www.youtube.com/watch?v=example"
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/20%20Saswatha%20krupa/6%20Asreya%20dhurgamu%20nivvani.mp3",
+          "refrain": {
+          "telugu": "|| ఆశ్రయ ||",
+          "transliteration": "|| Ashraya ||"
+        }
       },
       "sections": [
         {
@@ -12258,7 +12366,7 @@
           "sectionType": "verse",
           "number": 2,
           "telugu": [
-            "ష్టుతులతో దుర్గమును స్థాపించువాడవు",
+            "స్తుతులతో దుర్గమును స్థాపించువాడవు",
             "శృంగ ధ్వనులతో సైన్యము నడిపించువాడవు నీవే",
             "నీ యందు ధైర్యమును నే పొందుకొనెదను",
             "మరణము గెలిచిన బహు ధీరుడా"
@@ -15015,7 +15123,7 @@
         "scale": "D Minor",
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "YourAudioLinkHere",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/29~sadayuda%20naa%20yessaya/Pas.Freddy%20Paul%20Hosanna%20Ministries%202018%20New%20Album%20Song-6%20%E0%B0%B5%E0%B0%BF%E0%B0%B2%E0%B1%81%E0%B0%B5%E0%B1%88%E0%B0%A8%E0%B0%A6%E0%B0%BF%20%E0%B0%B8%E0%B0%AE%E0%B0%AF%E0%B0%AE%E0%B1%81%20(viluvainadhi%20Samayamu).mp3",
         "refrain": {
           "telugu": "|| విలువైనది ||",
           "transliteration": "|| Viluvainadi ||"
@@ -15706,13 +15814,13 @@
           "sectionType": "chorus",
           "number": 1,
           "telugu": [
-            "పల్లవి: ఆరాధన స్తుతి ఆరాధన",
+            "ఆరాధన స్తుతి ఆరాధన",
             "ఆత్మతో సత్యముతో నీకే ఆరాధన",
             "తండ్రియైన దేవా-కుమారుడైన ప్రభువా – పరిశుద్దాత్మ దేవా",
             "త్రియేక దేవా ఆరాధన స్తుతి ఆరాధన"
           ],
           "transliteration": [
-            "Pallavi: Aradhana sthuthi aradhana",
+            "Aradhana sthuthi aradhana",
             "aathmatho sathyamutho neeke aaraadhana",
             "Thandriyaina dhevaa kumaarudaina prabhuvaa parishuddhaathma dheva",
             "Thriyeka dhevaa aaraadhana sthuthi aaraadhana"
@@ -15726,16 +15834,14 @@
             "సీయోనులోనుండి దీవించువాడవు",
             "సదాకాలము జీవించువాడవు",
             "సాగిలపడినే నమస్కరించి",
-            "సర్వదా నిని కొనియాడేద-నిన్నే కీర్తించెద",
-            "|| తండ్రియైన ||"
+            "సర్వదా నిని కొనియాడేద-నిన్నే కీర్తించెద" 
           ],
           "transliteration": [
             "Sarvasrutiki aadhaarudaa sakala jeevula poshakudaa",
             "Seeyonu lonundi dheevinchuvaadavu",
             "Sadhaakaalamu jeevinchuvaadavu",
             "Saagilapadine namaskarinchi",
-            "Sarvadhaa ninu koniyaadedha ninne keerthinchedha",
-            "||Thandriyaina||"
+            "Sarvadhaa ninu koniyaadedha ninne keerthinchedha" 
           ]
         },
         {
@@ -15746,16 +15852,14 @@
             "సిలువలో నీ రక్తమే నాకై కార్చితివి",
             "శిథిలము కాని నగరమును కట్టితివి",
             "స్తోత్రము చెల్లింతు నీ కీర్తి తలచి",
-            "సర్వలోకాన నీ మహిమను నేను ప్రకటింతును",
-            "|| తండ్రియైన ||"
+            "సర్వలోకాన నీ మహిమను నేను ప్రకటింతును" 
           ],
           "transliteration": [
             "Saarvaathrika sanghaa sthaapakudaa sarvaloka rakshakudaa",
             "Siluvalo nee rakthame naakai kaarchithivi",
             "Shidhilamu kaani nagaramunu kattithivi",
             "Sthothramu chellinthu neekeerthi thalachi",
-            "Sarvalokaana neemahimanu nenu prakatinthunu",
-            "||Thandriyaina||"
+            "Sarvalokaana neemahimanu nenu prakatinthunu" 
           ]
         },
         {
@@ -15766,16 +15870,14 @@
             "యాజక రాజ్యములో నను చేర్చుటకై",
             "నిత్యయాజకత్వమును ధరింపజేసితివి",
             "మహిమతో పరిచర్య నే చేయుటకై",
-            "నూతన కృపలను నే పొందెద-ఆత్మతో శక్తితో సాగేద",
-            "|| తండ్రియైన ||"
+            "నూతన కృపలను నే పొందెద-ఆత్మతో శక్తితో సాగేద" 
           ],
           "transliteration": [
             "Sarvasathyamunaku aadhaaramai parishuddhayaajakula saaraadhivai",
             "Yaajaka raajyamulo nanu cherchutakai",
             "Nithya yaajakathvamunu dharimpajesithivi",
             "Mahimatho paricharya ne cheyutakai",
-            "Noothana krupalanu nepondhedha aathma shakthitho saagedha",
-            "||Thandriyaina||"
+            "Noothana krupalanu nepondhedha aathma shakthitho saagedha" 
           ]
         }
       ]
@@ -15865,74 +15967,7 @@
       ]
     }
   },
-  {
-    "song": {
-      "title": {
-        "telugu": "ప్రేమాంబుధి కృపానిధీ",
-        "english": "Premambudhi Krupanidhi"
-      },
-      "metadata": {
-        "scale": "A# Major",
-        "language": "Telugu",
-        "category": "Christian Worship",
-        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/28-vasthalyapoornuda/prema%20bhudhi%20krupanidhi.mp3",
-        "refrain": {
-          "telugu": "||ప్రేమాంబుధి||",
-          "transliteration": "||Premambuthi||"
-        }
-      },
-      "sections": [
-        {
-          "sectionType": "chorus",
-          "number": 1,
-          "telugu": [
-            "పల్లవి: ప్రేమాంబుధి కృపానిధీ నడిపించుసారధి",
-            "నీ ప్రేమయే నా ధ్యానము",
-            "నీ స్నేహమే నా ప్రాణము",
-            "నీవే నా గానము"
-          ],
-          "transliteration": [
-            "Pallavi: Premambudhi Krupanidhi Nadipinchu Saaradhi",
-            "Nee Premaye Naa Dhyanamu",
-            "Nee Snehame Naa Pranamu",
-            "Neeve Naa Gaanamu"
-          ]
-        },
-        {
-          "sectionType": "verse",
-          "number": 1,
-          "telugu": [
-            "ఎదుట నిలిచి నీవు ఉంటె భయములేదిక",
-            "ఎండమావి నీరు చూచి మోసపోనిక",
-            "సాగిపోయే నీడచూచి కలత చెందక",
-            "నీకై జీవించెద"
-          ],
-          "transliteration": [
-            "Eduta Nilichi Neevu Unte Bhayamuledhika",
-            "Endamaavi Neeru Choosi Mosaponika",
-            "Saagipoye Needa Choosi Kalatha Chendaka",
-            "Neekai Jeevinchedha"
-          ]
-        },
-        {
-          "sectionType": "verse",
-          "number": 2,
-          "telugu": [
-            "సంద్రమందు అలలవలె అలసిపోనిక",
-            "ధరణిలోని చూచి ఆశచెందక",
-            "భారమైన జీవితాన్ని సేదదీర్చిన",
-            "నీ ప్రేమ పొందెద"
-          ],
-          "transliteration": [
-            "Sandramandu Alalavale Alasiponika",
-            "Dharaniloni Choosi Aashachendaka",
-            "Bhaaramaina Jeevithanni Sedadeerchina",
-            "Nee Prema Pondedha"
-          ]
-        }
-      ]
-    }
-  },
+   
   {
     "song": {
       "title": {
@@ -16770,7 +16805,7 @@
         "scale": "E Minor",
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "https://www.youtube.com/watch?v=OKJi4eWDJBk",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/29~sadayuda%20naa%20yessaya/HOSANNA%20MINISTRIES%202021%20NEW%20YEAR%20SONG(OFFICIAL%20VIDEO)%20%E0%B0%98%E0%B0%A8%E0%B0%AE%E0%B1%88%E0%B0%A8%E0%B0%B5%E0%B0%BF%20%E0%B0%A8%E0%B1%80%20%E0%B0%95%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%AF%E0%B0%AE%E0%B1%81%E0%B0%B2%E0%B1%81-Ghanamainavi%20Ne%20Karyamulu.mp3",
         "refrain": {
           "telugu": "||ఘనమైనవి నీ కార్యములు||",
           "transliteration": "||Ghanamainavi Nee Kaaryamulu||"
@@ -17104,138 +17139,107 @@
       ]
     }
   },
-  {
-    "song": {
-      "title": {
-        "telugu": "దీనుడా అజేయుడా",
-        "english": "Dhinuda Ajeyuda"
+ {
+  "song": {
+    "title": {
+      "telugu": "దీనుడా అజేయుడా",
+      "english": "Deenuda Ajeyuda"
+    },
+    "metadata": {
+      "scale": "",
+      "language": "Telugu",
+      "category": "Christian Worship",
+      "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/31%20Saradhi/1.Ajeyudaa_%E0%A5%A5_%E0%B0%85%E0%B0%9C%E0%B1%87%E0%B0%AF%E0%B1%81%E0%B0%A1%E0%B0%BE_%E0%A5%A5_Hosanna_Ministries_2021_New_Song_Pas.JOHN_WESLEY(256k).mp3",
+      "refrain": {
+        "telugu": "||దీనుడా||",
+        "transliteration": "||Deenuda||"
+      }
+    },
+    "sections": [
+      {
+        "sectionType": "chorus",
+        "number": 1,
+        "telugu": [
+          "దీనుడా అజేయుడా ఆదరణ కిరణమా",
+          "పూజ్యుడా పరిపూర్ణుడా ఆనంద నిలయమా",
+          "జీవదాతవు నీవని శృతిమించి పాడనా",
+          "జీవధారవు నీవని కానుకనై పూజించనా",
+          "అక్షయ దీపము నీవే నా రక్షణ శృంగము నీవే",
+          "స్వరార్చన చేసిద నీకే నా స్తుతులర్పించెద నీకే"
+        ],
+        "transliteration": [
+          "Deenuda Ajeyuda Aadarana Kiranamaa",
+          "Poojyuda Paripoornuda Aananda Nilayamaa",
+          "Jeevadathavu Neevani Shrutiminchi Paadanaa",
+          "Jeevadhaaravu Neevani Kaanukanai Poojinchanaa",
+          "Akshaya Deepamu Neeve Naa Rakshana Shrungamu Neeve",
+          "Swaraarchana Chesida Neeke Naa Stuthularpincheda Neeke"
+        ]
       },
-      "metadata": {
-        "scale": "",
-        "language": "Telugu",
-        "category": "Christian Worship",
-        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/31%20Saradhi/1.Ajeyudaa_%E0%A5%A5_%E0%B0%85%E0%B0%9C%E0%B1%87%E0%B0%AF%E0%B1%81%E0%B0%A1%E0%B0%BE_%E0%A5%A5_Hosanna_Ministries_2021_New_Song_Pas.JOHN_WESLEY(256k).mp3",
-        "refrain": {
-          "telugu": "||దీనుడా అజేయుడా||",
-          "transliteration": "||Dhinuda Ajeyuda||"
-        }
+      {
+        "sectionType": "verse",
+        "number": 1,
+        "telugu": [
+          "సమ్మతిలేని సుడిగుండాలే ఆవరించగా",
+          "గమనములేని పోరాటాలే తరుముచుండగా",
+          "నిరుపేదనైన నాయెడల సందేహమేమి లేకుండా",
+          "హేతువేలేని ప్రేమ చూపించి సిలువచాటునే దాచావు",
+          "సంతోషము నీవే అమృత సంగీతము నీవే",
+          "స్తుతిమాలిక నీకే వజ్రసంకల్పము నీవే"
+        ],
+        "transliteration": [
+          "Sammathileni Sudigundale Aavarinchaga",
+          "Gamanamuleni Poratale Tarumuchundaga",
+          "Nirupedhainaina Nayadela Sandehamemi Lekunda",
+          "Hetuveleni Prema Choopinchi Siluvachaatune Daachavu",
+          "Santhoshamu Neeve Amrutha Sangeethamu Neeve",
+          "Stuthimaalika Neeke Vajrasankalpamu Neeve"
+        ]
       },
-      "sections": [
-        {
-          "sectionType": "chorus",
-          "number": 1,
-          "telugu": [
-            "దీనుడా అజేయుడా ఆదరణ కిరణమా",
-            "పూజ్యుడా పరిపూర్ణుడా ఆనంద నిలయమా"
-          ],
-          "transliteration": [
-            "Dhinuda Ajeyuda Aadharana Kiranama",
-            "Poojuda Paripoornuda Aananda Nilayama"
-          ]
-        },
-        {
-          "sectionType": "chorus",
-          "number": 2,
-          "telugu": [
-            "జీవదాతవు నీవని శృతిమించి పాడనా",
-            "జీవధారవు నీవని కానుకనై పూజించనా",
-            "అక్షయదీపము నీవే నా రక్షణ శృంగము నీవే",
-            "స్వరార్చన చేసెద నీకే నా స్తుతులర్పించెద నీకే"
-          ],
-          "transliteration": [
-            "Jeevadathavu Neevani Shruthiminchi Paadana",
-            "Jeevadharavu Neevani Kaanukanai Poojinchana",
-            "Akshayadeepamu Neeve Naa Rakshana Shrungamu Neeve",
-            "Swaraarchana Cheseda Neeke Naa Sthuthularpincheda Neeke"
-          ]
-        },
-        {
-          "sectionType": "verse",
-          "number": 1,
-          "telugu": [
-            "సమ్మతిలేని సుడిగుండాలే ఆవరించగా",
-            "గమనములేని పోరాటాలే తరుముచుండగా",
-            "నిరుపేదనైన నాయెడల సందేహమేమి లేకుండా",
-            "హేతువే లేని ప్రేమ చూపించి సిలువ చాటునే దాచావు"
-          ],
-          "transliteration": [
-            "Sammathileni Sudigundaale Aavarinchaga",
-            "Gamanamuleni Porataale Tharumuchundaga",
-            "Nirupedanaina Naayedala Sandhehamemi Lekunda",
-            "Hethuve Leni Prema Choopinchi Siluva Chaatune Daachavu"
-          ]
-        },
-        {
-          "sectionType": "verse",
-          "number": 2,
-          "telugu": [
-            "సంతోషము నీవే అమృత సంగీతము నీవే",
-            "స్థుతిమాలిక నీకే వజ్ర సంకల్పము నీవే"
-          ],
-          "transliteration": [
-            "Santhoshamu Neeve Amrutha Sangeethamu Neeve",
-            "Sthuthimaalika Neeke Vajra Sankalpamu Neeve"
-          ]
-        },
-        {
-          "sectionType": "verse",
-          "number": 3,
-          "telugu": [
-            "సత్య ప్రమాణము నెరవేర్చుటకే మార్గదర్శివై",
-            "నిత్యనిబంధన నాతో చేసిన సత్యవంతుడా",
-            "విరిగి నలిగిన మనస్సుతో హృదయార్చనే చేసెద",
-            "కరుణ నీడలో కృపావాడలో నీతో ఉంటే చాలయ్యా"
-          ],
-          "transliteration": [
-            "Satya Pramaanamu Neravarchutake Maargadarshivai",
-            "Nityanibandhana Naatho Chesina Sathyavanthuda",
-            "Virigi Naligina Manassutho Hrudayaarchane Cheseda",
-            "Karuna Needalo Krupaavadalo Neetho Unte Chaalaayya"
-          ]
-        },
-        {
-          "sectionType": "verse",
-          "number": 4,
-          "telugu": [
-            "కర్తవ్యము నీవే కనుల పండుగ నీవేగా",
-            "విశ్వాసము నీవే విజయ శిఖరము నీవేగా"
-          ],
-          "transliteration": [
-            "Kartavyamu Neeve Kanula Panduga Neevegaa",
-            "Vishwasamu Neeve Vijaya Shikharamu Neevegaa"
-          ]
-        },
-        {
-          "sectionType": "verse",
-          "number": 5,
-          "telugu": [
-            "ఊహకందని ఉన్నతమైనది దివ్య నగరమే",
-            "స్ఫటికము పోలిన సుందరమైనది నీ రాజ్యమే",
-            "ఆ నగరమే లక్ష్యమై మహిమాత్మతో నింపినావు",
-            "అమరలోకాన నీ సన్నిధిలో క్రొత్త కీర్తనే పాడెదను"
-          ],
-          "transliteration": [
-            "Oohakandani Unnathamainadhi Divya Nagaraame",
-            "Sphatikamu Polina Sundaramainadhi Nee Raajyame",
-            "Aa Nagaraame Lakshyamai Mahimaathmato Nimpinaavu",
-            "Amaralokaanu Nee Sannidhilo Krottha Keerthane Paadedanu"
-          ]
-        },
-        {
-          "sectionType": "verse",
-          "number": 6,
-          "telugu": [
-            "ఉత్సాహము నీవే నయనోత్సవం నీవేగా",
-            "ఉల్లాసము నీలో ఊహల పల్లకి నీవేగా"
-          ],
-          "transliteration": [
-            "Utsahamu Neeve Nayanotsavam Neevegaa",
-            "Ullasamu Neelo Oohala Pallaki Neevegaa"
-          ]
-        }
-      ]
-    }
-  },
+      {
+        "sectionType": "verse",
+        "number": 2,
+        "telugu": [
+          "సత్య ప్రమాణము నెరవేర్చుటకే మార్గదర్శివై",
+          "నిత్యనిబంధన నాతో చేసిన సత్యవంతుడా",
+          "విరిగి నలిగిన మనస్సుతో హృదయార్చనే చేసేద",
+          "కరుణనీడలో కృపావాడలో నీతో ఉంటే చాలయ్యా",
+          "కర్తవ్యము నీవే కనుల పండుగ నీవేగా",
+          "విశ్వాసము నీవే విజయశిఖరము నీవేగా"
+        ],
+        "transliteration": [
+          "Satya Pramaanamu Neravechutake Maargadarshivai",
+          "Nithyanibandhana Naatho Chesina Satyavanthuda",
+          "Virigi Naligna Manassutho Hridayaarchane Cheseda",
+          "Karuna Needalo Krupa Vadalo Neetho Unthe Chalayya",
+          "Karthavyamu Neeve Kanula Panduga Neevega",
+          "Vishwasamu Neeve Vijayashikharamu Neevega"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 3,
+        "telugu": [
+          "ఊహకందని ఉన్నతమైనది దివ్యనగరమే",
+          "స్పటికము పోలిన సుందరమైనది నీరాజ్యమే",
+          "ఆ నగరమే లక్ష్యమై మహిమాత్మతో నింపినావు",
+          "అమరలోకాన నీసన్నిధిలో క్రొత్త కీర్తనే పాడెదను",
+          "ఉత్సాహము నీవే నయనోత్సవం నీవేగా",
+          "ఉల్లాసము నీలో ఊహలపల్లకి నీవేగా"
+        ],
+        "transliteration": [
+          "Oohakandani Unnathamainadi Divyanagarame",
+          "Spatikamu Polina Sundaramainadi Neerajyame",
+          "Aa Nagarame Lakshyamai Mahimaathmatho Nimpinavu",
+          "Amaralokana Nee Sannidhilo Kotta Keerthane Paadena",
+          "Utsaahamu Neeve Nayanotsavam Neevega",
+          "Ullaasamu Neelo Oohalapallaki Neevega"
+        ]
+      }
+    ]
+  }
+}
+,
   {
     "song": {
       "title": {
@@ -19070,136 +19074,125 @@
       ]
     }
   },
-  {
-    "song": {
-      "title": {
-        "telugu": "నూతనమైన కృప",
-        "english": "Nuthanamaina Krupa"
+ {
+  "song": {
+    "title": {
+      "telugu": "నూతనమైన కృప",
+      "english": "Nuthana Maina Krupa"
+    },
+    "metadata": {
+      "scale": "",
+      "language": "Telugu",
+      "category": "Christian Worship",
+      "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/34%20Nityatejuda/6%20Nuthanamaina%20Krupa.mp3",
+      "refrain": {
+        "telugu": "|| నూతనమైన కృప ||",
+        "transliteration": "|| Nuthanamaina Krupa ||"
+      }
+    },
+    "sections": [
+      {
+        "sectionType": "chorus",
+        "number": 1,
+        "telugu": [
+          "నూతనమైన కృప - నవనూతనమైన కృప",
+          "శాశ్వతమైన కృప - బహు ఉన్నతమైన కృప",
+          "నిరంతరం నాపై చూపిన - నిత్య తేజుడా యేసయ్యా",
+          "నీ వాత్సల్యమే నాపై చూపించిన నీ ప్రేమను వివరించనా",
+          "నను నీ కోసమే ఇలా బ్రతికించిన జీవధిపతి నీవయ్యా",
+          "ఇదే కదా నీలో పరవశం",
+          "మరువలేని తియ్యని జ్ఞాపకం"
+        ],
+        "transliteration": [
+          "Nuthanamaina Krupa - Navanuthanamaina Krupa",
+          "Shaashvatamaina Krupa - Bahu Unnatamaina Krupa",
+          "Nirantaram Naapai Choopina - Nitya Tejuda Yesayya",
+          "Nee Vaathsalyame Naapai Choopinchina Nee Premaanu Vivarinchanaa",
+          "Nanu Nee Kosame Ilaa Bratikinchina Jeevadhipathi Neevayya",
+          "Ide Kada Neelo Paravasham",
+          "Maruvaleni Tiyyani Gnapakam"
+        ]
       },
-      "metadata": {
-        "scale": "",
-        "language": "Telugu",
-        "category": "Christian Worship",
-        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/34%20Nityatejuda/6%20Nuthanamaina%20Krupa.mp3",
-        "refrain": {
-          "telugu": "|| నూతనమైన కృప ||",
-          "transliteration": "|| Nuthanamaina Krupa ||"
-        }
+      {
+        "sectionType": "verse",
+        "number": 1,
+        "telugu": [
+          "నా క్రయధనముకై రుధిరము కార్చితీవి",
+          "ఫలవంతములైన తోటగా మార్చితివి",
+          "ఫలితము కోరకైన శోధన కలిగినను",
+          "ప్రతి ఫలముగా నాకు ఘనతను నియమించి",
+          "ఆశ్చర్యకరమైన ఆదరణ కలిగించి",
+          "అన్ని వేళలా యందు ఆశ్రయమైనావు",
+          "ఎంతగా కీర్తించినా నీరుణము నే తీర్చగాలనా",
+          "ఇదే కదా నీలో పరవశం",
+          "మరువలేని తియ్యని జ్ఞాపకం"
+        ],
+        "transliteration": [
+          "Naa Krayadhanamukai Rudhiramu Karchitivi",
+          "Phalavanthamulaina Totaga Marchitivi",
+          "Phalithamu Korakaina Shodhana Kaliginanu",
+          "Prathi Phalamuga Naaku Ghanathanu Niyaminchi",
+          "Aascharayakaramaina Aadarana Kaliginchi",
+          "Anni Velala Yandu Aashrayamainaavu",
+          "Enthaga Keerthischina Neerunamu Ne Tirchagalaanaa",
+          "Ide Kada Neelo Paravasham",
+          "Maruvaleni Tiyyani Gnapakam"
+        ]
       },
-      "sections": [
-        {
-          "sectionType": "chorus",
-          "number": 1,
-          "telugu": [
-            "నూతనమైన కృప",
-            "నవ నూతనమైన కృప",
-            "శాశ్వతమైన కృప",
-            "బహు ఉన్నతమైన కృప",
-            "నిరంతరం నాపై చూపిన",
-            "నిత్యతేజుడా యేసయ్యా",
-            "నీ వాత్సల్యమే నాపై చూపించిన",
-            "నీ ప్రేమను వివరించనా",
-            "నను నీ కోసమే ఇలా బ్రతికించిన",
-            "జీవాధిపతి నీవయ్యా",
-            "ఇదే కదా నీలో పరవశం",
-            "మరువలేని తియ్యని జ్ఞాపకం"
-          ],
-          "transliteration": [
-            "Nuthanamaina Krupa",
-            "Nava Nuthanamaina Krupa",
-            "Shashwatamaina Krupa",
-            "Bahu Unnatamaina Krupa",
-            "Nirantaram Naapai Choopina",
-            "Nitya Tejudha Yesayya",
-            "Nee Vaatsalyame Naapai Choopinchina",
-            "Nee Premanu Vivarinchanaa",
-            "Nanu Neekosame Ila Brathikinchina",
-            "Jeevadhipathi Neevayya",
-            "Ide Kada Nee Lo Paravasham",
-            "Maruvaleni Tiyyani Gnapakam"
-          ]
-        },
-        {
-          "sectionType": "verse",
-          "number": 1,
-          "telugu": [
-            "నా క్రయధనముకై రుధిరము కార్చితివి",
-            "ఫలవంతములైన తోటగా మార్చితివి",
-            "ఫలితము కొరకైనా శోధన కలిగినను",
-            "ప్రతిఫలముగా నాకు ఘనతను నియమించి",
-            "ఆశ్చర్యకరమైన ఆదరణ కలిగించి",
-            "అన్నీ వేళలయందు ఆశ్రయమైనావు",
-            "ఎంతగా కీర్తించినా నీ ఋణమే నే తీర్చగలనా",
-            "ఇదే కదా నీలో పరవశం",
-            "మరువలేని తియ్యని జ్ఞాపకం"
-          ],
-          "transliteration": [
-            "Naa Krayadhanamukai Rudhiramu Karchitivi",
-            "Phalavantamulaina Totaga Marchitivi",
-            "Phalitamu Korakaina Shodhana Kaliginanu",
-            "Prathiphalamuga Naaku Ghanatanu Niyamimchi",
-            "Aashcharyakaramaina Aadarana Kaligimchi",
-            "Anni Velalayandu Ashrayamainavu",
-            "Enthaga Keerthinchinaa Nee Runame Ne Teerchagalanaa",
-            "Ide Kada Nee Lo Paravasham",
-            "Maruvaleni Tiyyani Gnapakam"
-          ]
-        },
-        {
-          "sectionType": "verse",
-          "number": 2,
-          "telugu": [
-            "నీ వశమైయున్న ప్రాణాత్మదేహమును",
-            "పరిశుద్ధ పరచుటయే నీ కిష్టమాయెను",
-            "పలువేదనలలో నీతో నడిపించి",
-            "తలవంచని తెగువ నీలో కలిగించి",
-            "మదిలో నిలిచావు మమతను పంచావు",
-            "నా జీవితమంతా నిను కొనియాడెదను",
-            "ఎంతగా కీర్తించినా నీ ఋణమే నే తీర్చగలనా",
-            "ఇదే కదా నీలో పరవశం",
-            "మరువలేని తియ్యని జ్ఞాపకం"
-          ],
-          "transliteration": [
-            "Nee Vashamaiyunna Pranathmadhayamunu",
-            "Parishuddha Parachutaye Nee Kishthamaye",
-            "Paluvethanalalo Neetho Nadipinchi",
-            "Thalavanchani Teguva Neelo Kaliginchi",
-            "Madhilo Nilichavu Mamatanu Panchavu",
-            "Naa Jeevitamanthaa Ninu Koniyaadenu",
-            "Enthaga Keerthinchinaa Nee Runame Ne Teerchagalanaa",
-            "Ide Kada Nee Lo Paravasham",
-            "Maruvaleni Tiyyani Gnapakam"
-          ]
-        },
-        {
-          "sectionType": "verse",
-          "number": 3,
-          "telugu": [
-            "సాక్షి సమూహము మేఘమువలే నుండి",
-            "నాలో కోరిన ఆశలు నెరవేరగా",
-            "వేలాది దూతల ఆనందము చూచి",
-            "కృప మహిమైశ్వర్యం నే పొందిన వేళ",
-            "మహిమలో నీతోనే నిలిచిన వేళ",
-            "మాధుర్యలోకాన నిను చూచిన వేళ",
-            "ఎంతగా కీర్తించినా నీ ఋణమే నే తీర్చగలనా",
-            "ఇదే కదా నీలో పరవశం",
-            "మరువలేని తియ్యని జ్ఞాపకం"
-          ],
-          "transliteration": [
-            "Saakshi Samoohamu Meghamuvulae Nundi",
-            "Naalo Korina Aashalu Neraveraga",
-            "Velaadi Dootala Aanandamu Choosi",
-            "Krupa Mahimaishwaryam Ne Pondina Vela",
-            "Mahimalo Neethone Nilichina Vela",
-            "Madhuryalokaanu Ninu Choochina Vela",
-            "Enthaga Keerthinchinaa Nee Runame Ne Teerchagalanaa",
-            "Ide Kada Nee Lo Paravasham",
-            "Maruvaleni Tiyyani Gnapakam"
-          ]
-        }
-      ]
-    }
-  },
+      {
+        "sectionType": "verse",
+        "number": 2,
+        "telugu": [
+          "నీ వశమైయున్న ప్రాణాత్మ దేహమును పరిశుద్ధ పరచుటయే నీ కిష్టమాయెను",
+          "పలు వేదనలలో నీతో నడిపించి",
+          "తలవంచని తెగువ నీలో కలిగించి",
+          "మదిలో నిలిచావు - మమతను పంచావు",
+          "నా జీవితమంతా నిను కొనియాడేదను",
+          "ఎంతగా కీర్తించినా నీ రుణమే నే తీర్చగలనా",
+          "ఇదే కదా నీలో పరవశం",
+          "మరువలేని తియ్యని జ్ఞాపకం"
+        ],
+        "transliteration": [
+          "Nee Vashamaiyunna Praanathma Dehamunu Parishuddha Parachutaye Nee Kishtaamayenu",
+          "Palu Vedanalalo Neetho Nadipinchi",
+          "Thalavanchani Teguvu Neelo Kaliginchi",
+          "Madilo Nilichavu - Mamatanu Panchavu",
+          "Naa Jeevithamantaa Ninu Koniyadedanu",
+          "Enthaga Keerthischina Nee Runame Ne Tirchagalanaa",
+          "Ide Kada Neelo Paravasham",
+          "Maruvaleni Tiyyani Gnapakam"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 3,
+        "telugu": [
+          "సాక్షి సమూహము మేఘము వలె నుండి",
+          "నాలో కోరిన ఆశలు నెరవేరగా",
+          "వేలాది దూతల ఆనందము చూచి",
+          "కృప మహిమైశ్వర్యము నే పొందిన వేళ",
+          "మహిమలో నీ తోనే నిలిచిన వేళ",
+          "మాధుర్య లోకాన నిను చూసిన వేళ",
+          "ఎంతగా కీర్తించిన నీరుణము నే తీర్చగలనా",
+          "ఇదే కదా నీలో పరవశం",
+          "మరువలేని తియ్యని జ్ఞాపకం"
+        ],
+        "transliteration": [
+          "Saakshi Samuhamu Meghamu Vale Nundi",
+          "Naalo Korina Aashalu Neraveeraga",
+          "Velaadi Dhoothala Aanandamu Choosi",
+          "Krupa Mahimaiswaryamu Ne Pondina Vela",
+          "Mahimalo Nee Thone Nilichina Vela",
+          "Maadhurya Lokana Ninu Choosina Vela",
+          "Enthaga Keerthischina Neerunamu Ne Tirchagalaanaa",
+          "Ide Kada Neelo Paravasham",
+          "Maruvaleni Tiyyani Gnapakam"
+        ]
+      }
+    ]
+  }
+}
+,
   {
     "song": {
       "title": {
@@ -19832,7 +19825,7 @@
         "scale": "C Minor",
         "language": "Telugu",
         "category": "Christian Worship",
-        "audioLink": "https://www.youtube.com/watch?v=YctRjIdjMx4",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/35%20Daya%20Shettram/8%20%E0%B0%AF%E0%B1%87%E0%B0%B8%E0%B0%AF%E0%B1%8D%E0%B0%AF%E0%B0%BE%20%E0%B0%A8%E0%B0%BE%20%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%BE%E0%B0%A3%E0%B0%AE%E0%B0%BE.mp3",
         "refrain": {
           "telugu": "|| యేసయ్యా ||",
           "transliteration": "|| Yesayya ||"
