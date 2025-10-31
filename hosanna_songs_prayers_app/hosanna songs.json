@@ -7142,7 +7142,7 @@
       "english": "Premaa Premaa Premaa Premaa"
     },
     "metadata": {
-      "scale": "",
+      "scale": "E Minor",
       "language": "Telugu",
       "category": "Christian Worship",
       "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/extra_songs/%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B1%87%E0%B0%AE%E0%B0%BE%20%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B1%87%E0%B0%AE%E0%B0%BE-%20%E0%B0%95%E0%B0%BE%E0%B0%B2%E0%B0%82%20%E0%B0%AE%E0%B0%BE%E0%B0%B0%E0%B0%BF%E0%B0%A8%20%E0%B0%A8%E0%B0%BE%20%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%AD%E0%B1%81%E0%B0%A8%E0%B0%BF%20%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B1%87%E0%B0%AE%20%E0%B0%AE%E0%B0%BE%E0%B0%B0%E0%B1%81%E0%B0%A8%E0%B0%BE%20_%20Prema%20Prema%20_%20TPM%20Telugu%20Chorus%20song%20-57.mp3",
@@ -10457,7 +10457,7 @@
         "english": "Choochuchunna devudavu neeve Yesayya"
       },
       "metadata": {
-        "scale": "Unknown",
+        "scale": "E Minor",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/19%20krupamrutam/3%20Chuchuchunnaa%20.mp3",
@@ -11099,6 +11099,7 @@
         "english": "Ashrayadurgamu Neevani"
       },
       "metadata": {
+        "scale": "F Major",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/20%20Saswatha%20krupa/6%20Asreya%20dhurgamu%20nivvani.mp3",
@@ -16624,7 +16625,7 @@
         "english": "Evaro Nannila Marchinadhi"
       },
       "metadata": {
-        "scale": "",
+        "scale": "E Major",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/31%20Saradhi/04.Evaro_nannila_%E0%A5%A5_%E0%B0%8E%E0%B0%B5%E0%B0%B0%E0%B1%8B_%E0%B0%A8%E0%B0%A8%E0%B1%8D%E0%B0%A8%E0%B0%BF%E0%B0%B2%E0%B0%BE_%E0%A5%A5_Hosanna_Ministries_2021_New_Song(256k).mp3",
@@ -16638,7 +16639,7 @@
           "sectionType": "chorus",
           "number": 1,
           "telugu": [
-            "పల్లవి: ఎవరో నన్నిలా మార్చినది",
+            "ఎవరో నన్నిలా మార్చినది",
             "ఎడబాయని కృప చూపినది",
             "ఎవరు చూపని అనురాగమును",
             "ఏదో తెలియని ఆప్యాయతను",
@@ -16647,7 +16648,7 @@
             "మధురమైన ప్రేమ దివ్యమైన ప్రేమ"
           ],
           "transliteration": [
-            "Pallavi: Evaro Nannila Marchinadhi",
+            "Evaro Nannila Marchinadhi",
             "Edabayani Krupa Choopinadhi",
             "Evaru Choopani Anuragamunu",
             "Edo Theliyani Aapyaayathanu",
@@ -16720,7 +16721,7 @@
         "english": "Nive Hrudaya Saradhi"
       },
       "metadata": {
-        "scale": "",
+        "scale": "E Major",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/31%20Saradhi/07.Neeve_Hrudaya_Saradhi_%E0%A5%A5_%E0%B0%A8%E0%B1%80%E0%B0%B5%E0%B1%87_%E0%B0%B9%E0%B1%83%E0%B0%A6%E0%B0%AF_%E0%B0%B8%E0%B0%BE%E0%B0%B0%E0%B0%A7%E0%B0%BF_%E0%A5%A5_Hosanna_Ministries_New_Song_Pas.JOHN_WESLEY(256k).mp3",
@@ -16902,7 +16903,7 @@
         "english": "Amarudavu Nivu Naa Yesayya"
       },
       "metadata": {
-        "scale": "",
+        "scale": "C# Minor",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/31%20Saradhi/5.Amarudaa_%E0%A5%A5_%E0%B0%85%E0%B0%AE%E0%B0%B0%E0%B1%81%E0%B0%A1%E0%B0%B5%E0%B1%81_%E0%A5%A5_Hosanna_Ministries_2021_New_Song_Pas.Ramesh(256k).mp3",
@@ -17038,7 +17039,7 @@
         "english": "Krupagala Deva Dhayagala Raja"
       },
       "metadata": {
-        "scale": "",
+        "scale": "D Major",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/31%20Saradhi/03.Krupagala_Deva_%E0%A5%A5_%E0%B0%95%E0%B1%83%E0%B0%AA%E0%B0%97%E0%B0%B2_%E0%B0%A6%E0%B1%87%E0%B0%B5%E0%B0%BE_%E0%A5%A5_Hosanna_Ministries_2021_New_Song_Pas.Abraham(256k).mp3",
@@ -17146,7 +17147,7 @@
       "english": "Deenuda Ajeyuda"
     },
     "metadata": {
-      "scale": "",
+      "scale": "E Minor",
       "language": "Telugu",
       "category": "Christian Worship",
       "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/31%20Saradhi/1.Ajeyudaa_%E0%A5%A5_%E0%B0%85%E0%B0%9C%E0%B1%87%E0%B0%AF%E0%B1%81%E0%B0%A1%E0%B0%BE_%E0%A5%A5_Hosanna_Ministries_2021_New_Song_Pas.JOHN_WESLEY(256k).mp3",
@@ -17247,7 +17248,7 @@
         "english": "Karuna Sampannuda"
       },
       "metadata": {
-        "scale": "",
+        "scale": "G# Minor",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/34%20Nityatejuda/5%20KARUNASAMPANUDA%20.mp3",
@@ -17333,7 +17334,7 @@
         "english": "Padeda Sthuti Ganamu"
       },
       "metadata": {
-        "scale": "",
+        "scale": "E Minor",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/32%20Srikaruda%20Naa%20Yesayya/2%20%E0%B0%AA%E0%B0%BE%E0%B0%A1%E0%B1%86%E0%B0%A6%20%E0%B0%B8%E0%B1%8D%E0%B0%A4%E0%B1%81%E0%B0%A4%E0%B0%BF%E0%B0%97%E0%B0%BE%E0%B0%A8%E0%B0%AE%E0%B1%81%20%20%20.mp3",
@@ -17421,7 +17422,7 @@
         "english": "Mahadanandhamaina Needhu"
       },
       "metadata": {
-        "scale": "",
+        "scale": "D Minor",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/32%20Srikaruda%20Naa%20Yesayya/5%20MAHADANANDAMAINA.mp3",
@@ -17537,7 +17538,7 @@
         "english": "Krupa Krupa Sajeevulatho"
       },
       "metadata": {
-        "scale": "",
+        "scale": "D# Minor",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/32%20Srikaruda%20Naa%20Yesayya/4%20%E0%B0%B6%E0%B1%8D%E0%B0%B0%E0%B1%80%E0%B0%95%E0%B0%B0%E0%B1%81%E0%B0%A1%E0%B0%BE%20%E0%B0%A8%E0%B0%BE%20%E0%B0%AF%E0%B1%87%E0%B0%B8%E0%B0%AF%E0%B1%8D%E0%B0%AF%E0%B0%BE%20.mp3",
@@ -17623,7 +17624,7 @@
         "english": "Athi Sundharudavu"
       },
       "metadata": {
-        "scale": "",
+        "scale": "D# Minor",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/33%20Adviteeyuda/1%20%E0%B0%85%E0%B0%A4%E0%B0%BF%E0%B0%AA%E0%B0%B0%E0%B0%BF%E0%B0%B6%E0%B1%81%E0%B0%A6%E0%B1%8D%E0%B0%A7%E0%B1%81%E0%B0%A1%E0%B0%BE.mp3",
@@ -17713,7 +17714,7 @@
         "english": "Preme Shaswathamaina"
       },
       "metadata": {
-        "scale": "",
+        "scale": "G Minor",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/33%20Adviteeyuda/8%20PREME%20SASWATHAMAINA.mp3",
@@ -17803,7 +17804,7 @@
         "english": "Sthuti Paadutake"
       },
       "metadata": {
-        "scale": "",
+        "scale": "E Minor",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/32%20Srikaruda%20Naa%20Yesayya/1%20Stuti%20padutaake.mp3",
@@ -17905,7 +17906,7 @@
         "english": "Bahu Soundarya Siyonulo"
       },
       "metadata": {
-        "scale": "D-Minor",
+        "scale": "D Minor",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/33%20Adviteeyuda/5%20%E0%B0%B8%E0%B1%8C%E0%B0%82%E0%B0%A6%E0%B0%B0%E0%B1%8D%E0%B0%AF%20%E0%B0%B8%E0%B1%80%E0%B0%AF%E0%B1%8B%E0%B0%A8%E0%B1%81%E0%B0%B2%E0%B1%8B.mp3",
@@ -17979,7 +17980,7 @@
         "english": "Edho Aasha Naalo"
       },
       "metadata": {
-        "scale": "",
+        "scale": "F Minor",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/33%20Adviteeyuda/2%20Edho%20Aasha%20Naalo.mp3",
@@ -18049,7 +18050,7 @@
         "english": "Jeevapradathavu Nanurupinchina"
       },
       "metadata": {
-        "scale": "",
+        "scale": "F Minor",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/33%20Adviteeyuda/4%20%E0%B0%9C%E0%B1%80%E0%B0%B5%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%A7%E0%B0%BE%E0%B0%A4%E0%B0%B5%E0%B1%81.mp3",
@@ -18143,7 +18144,7 @@
         "english": "Naa Korika Ni Pranalika"
       },
       "metadata": {
-        "scale": "",
+        "scale": "D# Minor" ,
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/33%20Adviteeyuda/7%20Naa%20Korika%20Nee%20Pranalika.mp3",
@@ -18235,7 +18236,7 @@
         "english": "Athi Parishuddhuda"
       },
       "metadata": {
-        "scale": "",
+        "scale": "C# Minor",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/33%20Adviteeyuda/1%20%E0%B0%85%E0%B0%A4%E0%B0%BF%E0%B0%AA%E0%B0%B0%E0%B0%BF%E0%B0%B6%E0%B1%81%E0%B0%A6%E0%B1%8D%E0%B0%A7%E0%B1%81%E0%B0%A1%E0%B0%BE.mp3",
@@ -18347,7 +18348,7 @@
         "english": "Raktam Jayam Yesu Raktam"
       },
       "metadata": {
-        "scale": "",
+        "scale": "D Minor",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/33%20Adviteeyuda/6%20%E0%B0%B6%E0%B1%81%E0%B0%A6%E0%B1%8D%E0%B0%A7%E0%B0%BF%E0%B0%9A%E0%B1%87%E0%B0%B8%E0%B1%87%20%E0%B0%B0%E0%B0%95%E0%B1%8D%E0%B0%A4%E0%B0%82.mp3",
@@ -18447,7 +18448,7 @@
         "english": "Adviteeyuda Nannelu Daivama"
       },
       "metadata": {
-        "scale": "",
+        "scale": "F# Minor",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/33%20Adviteeyuda/2%20%E0%B0%85%E0%B0%A6%E0%B1%8D%E0%B0%B5%E0%B0%BF%E0%B0%A4%E0%B1%80%E0%B0%AF%E0%B1%81%E0%B0%A1%E0%B0%BE.mp3",
@@ -18549,7 +18550,7 @@
         "english": "Parimala Thailam Neeve"
       },
       "metadata": {
-        "scale": "",
+        "scale": "G Minor",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/34%20Nityatejuda/10%20Parimala%20thailam%20nivve.mp3",
@@ -18673,7 +18674,7 @@
         "english": "Aakasamu Vaipu"
       },
       "metadata": {
-        "scale": "",
+        "scale": "B Major",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/34%20Nityatejuda/9%20%E0%B0%86%E0%B0%95%E0%B0%BE%E0%B0%B6%E0%B0%82%20%E0%B0%B5%E0%B1%88%E0%B0%AA%E0%B1%81%20%E0%B0%A8%E0%B0%BE%20%E0%B0%95%E0%B0%A8%E0%B1%8D%E0%B0%A8%E0%B1%81%E0%B0%B2%E0%B1%86%E0%B0%A4%E0%B1%8D%E0%B0%A4%E0%B1%81%E0%B0%9A%E0%B1%81%E0%B0%A8%E0%B1%8D%E0%B0%A8%E0%B0%BE%E0%B0%A8%E0%B1%81.mp3",
@@ -18787,7 +18788,7 @@
         "english": "Nive Sravya Sadanamu "
       },
       "metadata": {
-        "scale": "",
+        "scale": "E Minor",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/34%20Nityatejuda/8%20Sravya%20Sadhanamu.mp3",
@@ -18891,7 +18892,7 @@
         "english": "Nikega Na Stuthimaalika"
       },
       "metadata": {
-        "scale": "",
+        "scale": "C# Major",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/34%20Nityatejuda/2%20%E0%B0%A8%E0%B1%80%E0%B0%95%E0%B1%87%E0%B0%97%E0%B0%BE%20%E0%B0%A8%E0%B0%BE%20%E0%B0%B8%E0%B1%8D%E0%B0%A4%E0%B1%81%E0%B0%A4%E0%B0%BF%E0%B0%AE%E0%B0%BE%E0%B0%B2%E0%B0%BF%E0%B0%95%20.mp3",
@@ -18997,7 +18998,7 @@
         "english": "Karuna Saagara Yesayya"
       },
       "metadata": {
-        "scale": "",
+        "scale": "C# Minor",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/34%20Nityatejuda/3%20Karunasaagara.mp3",
@@ -19081,7 +19082,7 @@
       "english": "Nuthana Maina Krupa"
     },
     "metadata": {
-      "scale": "",
+      "scale": "C# Minor",
       "language": "Telugu",
       "category": "Christian Worship",
       "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/34%20Nityatejuda/6%20Nuthanamaina%20Krupa.mp3",
@@ -19200,7 +19201,7 @@
         "english": "Siluvalo Vrelaade Nee Korake"
       },
       "metadata": {
-        "scale": "",
+        "scale": "C Minor",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/34%20Nityatejuda/7%20Siluvalo%20%20Vreeladee.mp3",
@@ -19286,7 +19287,7 @@
         "english": "Prema Purnuda Sneha Sheeluda"
       },
       "metadata": {
-        "scale": "",
+        "scale": "E Minor",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/34%20Nityatejuda/1%20Prema%20prunuda.mp3",
@@ -19394,7 +19395,7 @@
         "english": "Jaya Sankethama Daya Kshetrama"
       },
       "metadata": {
-        "scale": "",
+        "scale": "D Minor",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/35%20Daya%20Shettram/1%20JAYASANKHETAMAA.mp3",
@@ -19506,7 +19507,7 @@
         "english": "Akshayuda Naa Priya Yesayya"
       },
       "metadata": {
-        "scale": "",
+        "scale": "D Major",
         "language": "Telugu",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/35%20Daya%20Shettram/4%20%E0%B0%85%E0%B0%95%E0%B1%8D%E0%B0%B7%E0%B0%AF%E0%B1%81%E0%B0%A1%E0%B0%BE.mp3",
