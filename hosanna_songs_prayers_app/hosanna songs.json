@@ -20148,5 +20148,148 @@
         }
       ]
     }
+  },
+
+  {
+  "song": {
+    "title": {
+      "telugu": "రక్షకుని జన్మస్థలమా",
+      "english": "Rakshakuni Janmasthalamaa"
+    },
+    "metadata": {
+      "scale": "F Major",
+      "language": "Telugu",
+      "category": "Christian Worship",
+      "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/extra_songs/%E0%B0%85%E0%B0%97%E0%B1%8B%E0%B0%9A%E0%B0%B0%E0%B1%81%E0%B0%A1%E0%B1%81%20-%20AGOCHARUDU%20%E0%A5%A5%20%23hosannaministries%20%23christmassong%202025%20(%20Official%20Video%20song%20)%20%234k%20-%20HOSANNA%20MINISTRIES%20OFFICIAL.mp3",
+      "refrain": {
+        "telugu": "|| స్తుతి ||",
+        "transliteration": "|| Stuthi ||"
+      }
+    },
+    "sections": [
+      {
+        "sectionType": "chorus",
+        "number": 1,
+        "telugu": [
+          "రక్షకుని జన్మస్థలమా",
+          "యూదయ బెత్లహేమా",
+          "ఆరాధనలకు ఆరంభమా",
+          "హృదయార్పణలకు నివాసమా",
+          "ఎందుకో ఇంత భాగ్యము",
+          "దాచిఉంచే ప్రభు నీకోసము",
+          "స్తుతియు మహిమ ప్రభావము",
+          "ఎల్ల వేళల ప్రభుకే చెందును"
+        ],
+        "transliteration": [
+          "Rakshakuni Janmasthalamaa",
+          "Yoodaya Bethlehem-aa",
+          "Aarādhanalaku Aarambhamaa",
+          "Hridayaarpanalaku Nivaasamaa",
+          "Enduko Intha Bhaagyamu",
+          "Daachi Unche Prabhu Neekosamu",
+          "Stutiyu Mahima Prabhaavamu",
+          "Ella Velala Prabhuke Chendunu"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 1,
+        "telugu": [
+          "ప్రవచించే నాడు ప్రవక్తలు",
+          "క్రీస్తు జన్మ శుభవార్తను",
+          "ఆశించే నాడు కన్యలు",
+          "ప్రభువుకు జన్మ నివ్వాలని",
+          "తండ్రి చిత్తమే నెరవేరగా",
+          "కన్య మరియకే ప్రాప్తించగా",
+          "జన్మించే యేసు మహారాజుగా",
+          "కాలము విడిపోయే రెండుగా"
+        ],
+        "transliteration": [
+          "Pravachinche Naadu Pravakthalu",
+          "Kristhu Janma Shubhavaartanu",
+          "Aashinche Naadu Kanyalu",
+          "Prabhuku Janma Nivvaalani",
+          "Thandri Chitthame Neraveraga",
+          "Kanya Mariyake Praapthinchaaga",
+          "Janminche Yesu Maharajugaa",
+          "Kaalamu Vidipoye Renduga"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 2,
+        "telugu": [
+          "నోటి మాటతో సృష్టిని",
+          "తనచేతులతో ఈ మనిషిని",
+          "చేసిన దేవుడు దీనుడై",
+          "పవళించెను పశువుల పాకలో",
+          "నీ చరిత్రను మార్చు దేవుడు",
+          "తన మహిమనే నీ కిచ్చెను",
+          "యూదా ప్రధానులందరిలో",
+          "నీవు అల్పమైనదానవు కావు"
+        ],
+        "transliteration": [
+          "Noti Maatato Srushtini",
+          "Thanchethulatho Ee Manishini",
+          "Chesina Devudu Deenudai",
+          "Pavalinchenu Pashuvula Paakalo",
+          "Nee Charithranu Maarcu Devudu",
+          "Thana Mahimane Nee Kicchenu",
+          "Yoodaa Pradhaanulandarilo",
+          "Neevu Alpamainadhanavu Kaavu"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 3,
+        "telugu": [
+          "దివిలోని దూతగణములు",
+          "సైన్య సమూహమై దిగివచ్చిరి",
+          "సర్వశక్తి సంపన్నునికి",
+          "స్తోత్ర గీతమే అర్పించిరి",
+          "సర్వలోక కల్యాణముకై",
+          "లోక పాప పరిహారముకై",
+          "దిగివచ్చిన యేసు పూజ్యుడని",
+          "అర్భాటించి కీర్తించెనుగా"
+        ],
+        "transliteration": [
+          "Diviloni Dhoothaganamulu",
+          "Sainya Samuhamai Digivachchiri",
+          "Sarvashakthi Sampannuniki",
+          "Stotra Geethame Arpinchiri",
+          "Sarvaloka Kalyaanamukai",
+          "Loka Paapa Parihaaramukai",
+          "Digivachina Yesu Poojyudani",
+          "Arbhatachinchi Keerthinchenuga"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 4,
+        "telugu": [
+          "రక్షకునిచూడవచ్చిన",
+          "ఆ గొల్లలు జ్ఞానుల సందడితో",
+          "రాజులగుమ్మమును చేరెను",
+          "అగోచరుడైన యేసువార్తలు",
+          "సింహ స్వప్నమై నిలిచెనుగా",
+          "సింహాసనములు అదిరెనుగా",
+          "శిరమువంచి శ్రీమంతునికి",
+          "సాటిలేరని కొలిచిరిగా"
+        ],
+        "transliteration": [
+          "Rakshakunichoodavachchina",
+          "Aa Gollalu Jnaanula Sandadito",
+          "Raajulagummamunu Cherenu",
+          "Agocharudaina Yesuvaarthalu",
+          "Simha Swapnamai Nilichenuga",
+          "Simhaasanamulu Adirenuga",
+          "Shiramu Vanchi Shreemantuniki",
+          "Saatilerani Kolichirigaa"
+        ]
+      }
+    ]
   }
+}
+
+
 ]
