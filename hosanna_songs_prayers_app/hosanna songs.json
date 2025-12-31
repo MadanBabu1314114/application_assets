@@ -20300,6 +20300,104 @@
       }
     ]
   }
+},
+
+{
+  "song": {
+    "title": {
+      "telugu": "దివ్యతేజోమయా యేసయ్యా",
+      "english": "Divyatejomayaa Yesayyaa"
+    },
+    "metadata": {
+      "isNewSong": true,
+      "scale": "C Minor",
+      "language": "Telugu",
+      "category": "Christian Worship",
+      "audioLink": "",
+      "refrain": {
+        "telugu": "|| నిత్యం ||",
+        "transliteration": "|| Nithyam ||"
+      }
+    },
+    "sections": [
+      {
+        "sectionType": "chorus",
+        "number": 1,
+        "telugu": [
+          "దివ్యతేజోమయా యేసయ్యా",
+          "నీతి నియమాలకు నిలయమా",
+          "నినునమ్ము నీజనుల – న్యాయాధిపతి నీవై",
+          "నడిపితివి జయధ్వజముతో",
+          "నిత్యం నీకే నా ఆరాధన",
+          "నీవే నీవే నా స్తుతికీర్తన"
+        ],
+        "transliteration": [
+          "Divyatejomayaa Yesayyaa",
+          "Neethi Niyamaalaku Nilayamaa",
+          "NinuNammu Neejanula – Nyayaadhipathi Neevai",
+          "Nadipithivi Jayadhwajamutho",
+          "Nithyam Neeke Naa Aaraadhana",
+          "Neeve Neeve Naa Stuthikeerthana"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 1,
+        "telugu": [
+          "బలవంతుడా మహాశూరుడా – పలుశోధనలలో నాతోడై",
+          "నా కుడి పార్శ్వమందుండినావు",
+          "నీ మహిమకై నీవేర్పరచిన – నీ పాత్రగా నను మార్చినీవు",
+          "నీ ఎనలేని ప్రేమను చూపితివి",
+          "నీవే నీవే నా విజయం - నాలో నీవే నీవే ఆనందం",
+          "నీవే నీవే నా విజయం - నాలో నీవే నీవే మహదానందం"
+        ],
+        "transliteration": [
+          "Balavanthudaa Mahaashoorudaa – Palu Shodhanalalo Naathodai",
+          "Naa Kudi Paarshvamandundinaavu",
+          "Nee Mahimakai Neeverparachina – Nee Paathraga Nanu Maarchinaavu",
+          "Nee Enaleni Premanu Choopithivi",
+          "Neeve Neeve Naa Vijayam – Naalo Neeve Neeve Aanandam",
+          "Neeve Neeve Naa Vijayam – Naalo Neeve Neeve Mahadaanandam"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 2,
+        "telugu": [
+          "అభిషిక్తుడా నా ప్రాణేశ్వర – నా నీడవలె నాతోనుండి",
+          "నను రక్షించి పోషించినావు",
+          "నేనెన్నడూ నాకై ఆశించని – నీ దీవెనలతో తృప్తిపరచి",
+          "నన్నీ స్థితిలో నీవు నిలిపినావు",
+          "నీవే నీవే నా ప్రాణం - నాలో నీవే నీవే నా ధ్యానం (2)"
+        ],
+        "transliteration": [
+          "Abhishikthudaa Naa Praaneshwara – Naa Needavale Naathonundi",
+          "Nanu Rakshinchi Poshinchinaavu",
+          "Nenennadoo Naakai Aashincha ni – Nee Deevenalatho Thrupthiparachi",
+          "Nannee Sthithilo Neevu Nilipinaavu",
+          "Neeve Neeve Naa Praanam – Naalo Neeve Neeve Naa Dhyaanam (2)"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 3,
+        "telugu": [
+          "నీ వాక్యమే నన్ను బ్రతికించెను – నా బాధలలో నెమ్మదినిచ్చి",
+          "గొప్ప ఆదరణ కలిగించె నాలో",
+          "మన్నైనది మన్నైపోవునని – నను జీవాత్మతో నింపినీవు",
+          "నీ రూపుగా నను మార్చినావే",
+          "నిత్యం నీతో నడుపుటకు – నీవు నాలో నాతో ఉన్నావే (2)"
+        ],
+        "transliteration": [
+          "Nee Vaakyame Nannu Brathikinchenu – Naa Baadhalalo Nemmadhinichchi",
+          "Goppa Aadarana Kaliginche Naalo",
+          "Mannainadi Mannai Povunani – Nanu Jeevaathmatho Nimpinaavu",
+          "Nee Roopugaa Nanu Maarchinaave",
+          "Nithyam Neetho Naduputaku – Neevu Naalo Naatho Unnaave (2)"
+        ]
+      }
+    ]
+  }
 }
 
 
