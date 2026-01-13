@@ -16805,6 +16805,79 @@
   {
     "song": {
       "title": {
+        "telugu": "దేవా మా ప్రార్థన వినవా",
+        "english": "Deva Maa Prarthana Vinavaa"
+      },
+      "metadata": {
+        "scale": "C Minor",
+        "videoLink": "https://www.youtube.com/watch?v=CvovqklN9Y8&list=RDCvovqklN9Y8&start_radio=1",
+        "language": "Telugu",
+        "category": "Christian Prayer Song",
+        "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/extra_songs/%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%A7%E0%B0%A8%20%E0%B0%97%E0%B1%80%E0%B0%A4%E0%B0%82%20-%20NEW%20SPECIAL%20Song%20%20Ps.John%20wesely%20%20Ps.Abraham%20%20Ps.Ramesh.mp3",
+        "refrain": {
+          "telugu": "|| దేవా మా ప్రార్థన వినవా ||",
+          "transliteration": "|| Devaa Maa Prarthana Vinavaa ||"
+        }
+      },
+      "sections": [
+        {
+          "sectionType": "chorus",
+          "number": 1,
+          "telugu": [
+            "దేవా మా ప్రార్థన వినవా",
+            "ఆవేదన ఆలకించవా",
+            "నీ ప్రజల కన్నీరు చూచి",
+            "దాటి వెళ్లకు ప్రభువా",
+            "మా దేశ క్షేమము చూసే",
+            "ఆశ్రయమైన దేవుడవు"
+          ],
+          "transliteration": [
+            "Devaa Maa Prarthana Vinavaa",
+            "Aavedana Aalakinchavaa",
+            "Nee Prajala Kanneeru Choochi",
+            "Daati Vellaku Prabhuvaa",
+            "Maa Desha Kshemamu Choose",
+            "Aashrayamaina Devudavu"
+          ]
+        },
+        {
+          "sectionType": "verse",
+          "number": 1,
+          "telugu": [
+            "సుర్యుడే లేక వేకువ రాదే",
+            "కెరటాలు లేక సాగరము కాదే",
+            "నీవు లేక జీవించగలమా",
+            "కానరాక వ్యాధి మూలం",
+            "దేశమంత శిలగ మారే",
+            "కనులకాంతి చీకటాయే",
+            "దేశశాంతి మూగబోయే",
+            "జనులఘోష గగనమంతే",
+            "ఘోర శిక్ష బారమాయే",
+            "నీవే రావా కన్నీరు చూసి",
+            "రక్షింపుము మా దేశమును",
+            "దయ చూపవా యేసయ్య"
+          ],
+          "transliteration": [
+            "Sooryude Leka Vekuva Raade",
+            "Keratala Leka Saagaramu Kaade",
+            "Neevu Leka Jeevinchagalamā",
+            "Kaanaraaka Vyaadhi Moolam",
+            "Deshamantha Shilaga Maare",
+            "Kanulakaanthi Cheekataaye",
+            "Desha Shaanthi Moogaboye",
+            "Janula Ghosha Gaganamanthe",
+            "Ghora Shiksha Baaramaaye",
+            "Neeve Raavaa Kanneeru Choosi",
+            "Rakshimpumu Maa Deshamunu",
+            "Daya Choopavaa Yesayya"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "song": {
+      "title": {
         "telugu": "ఘనమైనవి నీ కార్యములు",
         "english": "Ghanamainavi Nee Kaaryamulu"
       },
@@ -17946,7 +18019,7 @@
         "scale": "F Minor",
         "language": "Telugu",
         "category": "Christian Worship",
-        "videoLink":"https://youtu.be/Y6yYRWC2ITE?si=Ul5UmYqeToWKarIz",
+        "videoLink": "https://youtu.be/Y6yYRWC2ITE?si=Ul5UmYqeToWKarIz",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/33%20Adviteeyuda/2%20Edho%20Aasha%20Naalo.mp3",
         "refrain": {
           "telugu": "|| ఏదో ఆశ నాలో ||",
@@ -18744,7 +18817,7 @@
       "metadata": {
         "scale": "E Minor",
         "language": "Telugu",
-        "videoLink":"https://youtu.be/PzELW79HAVs?si=85BiGLlt10N8kQkv",
+        "videoLink": "https://youtu.be/PzELW79HAVs?si=85BiGLlt10N8kQkv",
         "category": "Christian Worship",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/34%20Nityatejuda/8%20Sravya%20Sadhanamu.mp3",
         "refrain": {
@@ -19463,10 +19536,9 @@
       "metadata": {
         "isNewSong": true,
         "scale": "D Major",
-         
         "language": "Telugu",
         "category": "Christian Worship",
-        "videoLink":"https://youtu.be/E8HVXUMqPmQ?si=YGXFReXmS0i1DRhb",
+        "videoLink": "https://youtu.be/E8HVXUMqPmQ?si=YGXFReXmS0i1DRhb",
         "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/35%20Daya%20Shettram/4%20%E0%B0%85%E0%B0%95%E0%B1%8D%E0%B0%B7%E0%B0%AF%E0%B1%81%E0%B0%A1%E0%B0%BE.mp3",
         "refrain": {
           "telugu": "|| అక్షయుడా ||",
