@@ -20427,5 +20427,118 @@
         }
       ]
     }
+  },
+  {
+  "song": {
+    "title": {
+      "telugu": "ఇదిగో నా జీవితం",
+      "english": "Idigo Naa Jeevitham"
+    },
+    "metadata": {
+      "isNewSong": true,
+      "scale": "G Major",
+      "language": "Telugu",
+      "videoLink": "https://www.youtube.com/watch?v=YH_m7KeVNe8&list=RDYH_m7KeVNe8&start_radio=1",
+      "category": "Christian Worship",
+      "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/extra_songs/%E0%B0%87%E0%B0%A6%E0%B0%BF%E0%B0%97%E0%B1%8B%20%E0%B0%A8%E0%B0%BE%E0%B0%9C%E0%B1%80%E0%B0%B5%E0%B0%BF%E0%B0%A4%E0%B0%82%20%E0%B0%A6%E0%B1%87%E0%B0%B5%E0%B0%BE%20%E0%B0%A8%E0%B1%80%E0%B0%95%E0%B0%82%E0%B0%95%E0%B0%BF%E0%B0%A4%E0%B0%82%20%E0%A5%A5%20Hosanna%20Ministries%202026%20YOUTH%20MEETING%20Special%20Song%20-%20HOSANNA%20MINISTRIES%20OFFICIAL-%5BAudioTrimmer.com%5D.mp3",
+      "refrain": {
+        "telugu": "|| యేసయ్య యేసయ్య యేసయ్య ||",
+        "transliteration": "|| Yesayya Yesayya Yesayya ||"
+      }
+    },
+    "sections": [
+      {
+        "sectionType": "chorus",
+        "number": 1,
+        "telugu": [
+          "ఇదిగో నా జీవితం దేవా నీకంకితం",
+          "మేలైన శ్రమలైన నీకోసమే",
+          "ఆరాధింతును పూర్ణహృదయముతో",
+          "ఘనపరతును నా జీవితాంతము",
+          "యేసయ్య యేసయ్య యేసయ్య"
+        ],
+        "transliteration": [
+          "Idigo Naa Jeevitham Devaa Neekankitam",
+          "Melaina Shramalaina Neekosame",
+          "Aaradhintunu Poornahrudayamutho",
+          "Ghanaparathunu Naa Jeevithanthamu",
+          "Yesayya Yesayya Yesayya"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 1,
+        "telugu": [
+          "నీ వైపే నే చూడక - నీ ప్రేమే నే నెరుగక",
+          "శిథిలమైన శిలనై - నేనుండగా",
+          "నను ప్రేమింపగా వెంటాడితివి",
+          "నీ కౌగిట చేర్చి - మనిషిగా మార్చితివి",
+          "ఎన్నాళ్లు నాకై - వేచి యున్నావు",
+          "ఎందుకని ఇంతగా - ప్రేమించితివి",
+          "ఇదిగో నా జీవితం దేవా నీ కంకితం",
+          "చాకైన బ్రతుకైనా నీ కోసమే"
+        ],
+        "transliteration": [
+          "Nee Vaipe Ne Choodaka - Nee Preme Ne Nerugaka",
+          "Shithilamaina Shilanai - Neenundaga",
+          "Nanu Premimpaga Ventaditivi",
+          "Nee Kaugita Cherchi - Manishiga Maarchitivi",
+          "Ennallu Naakai - Vechi Yunnaavu",
+          "Endukani Intaga - Preminchitivi",
+          "Idigo Naa Jeevitham Devaa Nee Kankitam",
+          "Chaakaina Bratukaina Nee Kosame"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 2,
+        "telugu": [
+          "దివ్యమైన స్నేహము - నా మదిలోని నికావ్యము",
+          "పరిమళించు పద్మము - నీవేనయ్యా",
+          "ఊహలరేకలకు - ఊపిరి పోసితివి",
+          "ఊహకు మించిన - స్థానమునిచ్చితివి",
+          "ఏమి చూచితివి - యోగ్యత నాలో",
+          "ఏమిచ్చి నీ రుణము - నే తీర్చెదను",
+          "ఇదిగో నా జీవితం దేవా నీ కంకితం",
+          "చాకైన బ్రతుకైనా నీ కోసమే"
+        ],
+        "transliteration": [
+          "Divyamaina Snehamu - Naa Madiloni Nikavyamu",
+          "Parimalinchu Padmamu - Neevenaayaa",
+          "Oohalareekalaku - Oopiri Positivi",
+          "Oohaku Minchina - Sthanamunichitivi",
+          "Emi Choochitivi - Yogyata Naalo",
+          "Emichchi Nee Runamu - Ne Teerchedanu",
+          "Idigo Naa Jeevitham Devaa Nee Kankitam",
+          "Chaakaina Bratukaina Nee Kosame"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 3,
+        "telugu": [
+          "స్తుతులపై ఆశీనుడా - పరిశుద్ధులలో మహనీయుడా",
+          "స్వరమండలము సితారతో కీర్తింతును",
+          "సద్గుణములకు - నిలయము నీవే",
+          "సర్వవిపత్తులకు - సారధి నీవే",
+          "దైవమును విడచిన వారికి నీవే",
+          "దేవుడవు మహా దేవుడవు",
+          "ఇదిగో నా జీవితం దేవా నీ కంకితం",
+          "చాకైన బ్రతుకైనా నీ కోసమే"
+        ],
+        "transliteration": [
+          "Sthutulapai Ashineedaa - Parishuddhula lo Mahaneeyudaa",
+          "Svaramandalamu Sitaarattho Keerthintunu",
+          "Sadgunamulaku - Nilayamu Neeve",
+          "Sarvavipattulaku - Saaradhi Neeve",
+          "Daivamunu Vidachina Vaariki Neeve",
+          "Devudavu Maha Devudavu",
+          "Idigo Naa Jeevitham Devaa Nee Kankitam",
+          "Chaakaina Bratukaina Nee Kosame"
+        ]
+      }
+    ]
   }
+}
+
 ]
