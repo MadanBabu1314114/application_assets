@@ -19534,7 +19534,7 @@
         "english": "Akshayuda Naa Priya Yesayya"
       },
       "metadata": {
-        "isNewSong": true,
+  
         "scale": "D Major",
         "language": "Telugu",
         "category": "Christian Worship",
@@ -19636,7 +19636,7 @@
         "english": "Ashrayuda Naa Yesayya"
       },
       "metadata": {
-        "isNewSong": true,
+
         "scale": "F Minor",
         "language": "Telugu",
         "category": "Christian Worship",
@@ -19755,7 +19755,7 @@
         "english": "Oohaakandani Prema"
       },
       "metadata": {
-        "isNewSong": true,
+    
         "scale": "F Minor",
         "language": "Telugu",
         "category": "Christian Worship",
@@ -19854,7 +19854,7 @@
         "english": "Yesayya Naa Praanamaa"
       },
       "metadata": {
-        "isNewSong": true,
+      
         "scale": "C Minor",
         "language": "Telugu",
         "category": "Christian Worship",
@@ -19983,7 +19983,7 @@
         "english": "Jagamulanelae Paripaalaka"
       },
       "metadata": {
-        "isNewSong": true,
+
         "scale": "C Minor",
         "language": "Telugu",
         "category": "Christian Worship",
@@ -20096,7 +20096,7 @@
         "english": "Kurisindi Tholakari Vana"
       },
       "metadata": {
-        "isNewSong": true,
+        
         "scale": "C Minor",
         "language": "Telugu",
         "category": "Christian Worship",
@@ -20427,5 +20427,688 @@
         }
       ]
     }
+  },
+
+  {
+  "song": {
+    "title": {
+      "telugu": "సౌందర్యపూర్ణుడా",
+      "english": "Sowndaryapurnudaa"
+    },
+    "metadata": {
+      "isNewSong": true,
+      "scale": "F Minor",
+      "language": "Telugu",
+      "videoLink": "https://www.youtube.com/watch?v=gAQaPBMx-Mg",
+      "category": "Christian Worship",
+      "audioLink": "",
+      "refrain": {
+        "telugu": "|| మనసారా ||",
+        "transliteration": "|| Manasara ||"
+      }
+    },
+    "sections": [
+      {
+        "sectionType": "chorus",
+        "number": 1,
+        "telugu": [
+          "సౌందర్యపూర్ణుడా సర్వలోకానాథుడా",
+          "రమ్యమైన పాలకా గొప్ప రక్షణ కారకా ॥2॥",
+          "యేసయ్యా నా ప్రాణప్రియుడా - మనస్సంతా నిండిన మధురాను బంధమా",
+          "అతిప్రియుడా నా ప్రాణేశ్వరా - అపురూపమే నీ ముఖదర్శనం",
+          "మనసారా నిన్నే చేరి ప్రియమారా నిన్నే కొలిచి",
+          "ప్రణుతింతును ఆశతీరా అతికాంక్షనీయుడా ॥2॥"
+        ],
+        "transliteration": [
+          "Sowndaryapurnuda Sarvalokanadhuda",
+          "Ramyamaina Palaka Goppa Rakshana Karaka (2)",
+          "Yesayya Naa Pranapriyuda - Manassantha Nindina Madhuranu Bandhama",
+          "Athipriyuda Naa Praneshwara - Apurupame Nee Mukhadarshanam",
+          "Manasara Ninne Cheri Priyamara Ninne Kolichi",
+          "Pranutinthunu Ashatheera Athikankshaneeyuda (2)"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 1,
+        "telugu": [
+          "సద్భక్తితో బ్రతుక ఆశించగా",
+          "వాగ్దాన ధ్వనులే బలపరచెను ॥2॥",
+          "విశ్వాసయాత్ర కడగండ్ల పాలైననూ",
+          "కన్నీటి కడలి చెలరేగి పొంగిననూ",
+          "నీవే నిమ్మళపరచినావు"
+        ],
+        "transliteration": [
+          "Sadbhakthitho Brathuka Ashinchaga",
+          "Vagdhana Dhwanule Balaparachenu (2)",
+          "Vishwasa Yathra Kadagandla Palainanu",
+          "Kanneeti Kadali Chelaregi Ponginanu",
+          "Neeve Nimmalaparachinaavu"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 2,
+        "telugu": [
+          "మరిశ్రేష్టమైన యీవులను దయచేయ",
+          "నీ కరుణచూపి నా కొసగినావు ॥2॥",
+          "సమృద్ధి జీవము నా కొరకే తెచ్చితివి",
+          "సమీపించలేని నీ మహిమకై పిలిచిన",
+          "మహిమోన్నతుడా యేసయ్యా"
+        ],
+        "transliteration": [
+          "Mari Shrestamaina Yeevulanu Dayacheya",
+          "Nee Karuna Chupi Naa Kosaginavu (2)",
+          "Samruddhi Jeevamu Naa Korake Techithivi",
+          "Sameepinchaleni Nee Mahimakai Pilichina",
+          "Mahimonnathuda Yesayya"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 3,
+        "telugu": [
+          "త్వరలో రానైయున్న నా ప్రియుడవు",
+          "కను రెప్పపాటున నిను చేరెదను ॥2॥",
+          "కనులార నిను చూసి మైమరిచిపోయే",
+          "కనువిందు చేసే మహిమానగరిలో",
+          "పరవశమే ప్రతినిత్యము"
+        ],
+        "transliteration": [
+          "Thwaralo Raanaiyunna Naa Priyudavu",
+          "Kanureppapaatuna Ninu Cheredanu (2)",
+          "Kanulara Ninu Chusi Maimarichipoye",
+          "Kanuvindu Chese Mahimanagarilo",
+          "Paravashame Pratinithyamu"
+        ]
+      }
+    ]
   }
+},
+
+{
+  "song": {
+    "title": {
+      "telugu": "స్తుతి కీర్తనీయుడా",
+      "english": "Sthuthi Keerthaneeyudaa"
+    },
+    "metadata": {
+      "isNewSong": true,
+      "scale": "C Minor",
+      "language": "Telugu",
+      "videoLink": "https://www.youtube.com/watch?v=v1hQUC2NTKA",
+      "category": "Christian Worship",
+      "audioLink": "",
+      "refrain": {
+        "telugu": "॥ నా యేసురాజా ॥",
+        "transliteration": "|| Naa Yesuraajaa ||"
+      }
+    },
+    "sections": [
+      {
+        "sectionType": "chorus",
+        "number": 1,
+        "telugu": [
+          "స్తుతి కీర్తనీయుడా - ఘనమైన నీ ప్రేమ",
+          "నా హృదయవీణపై శృతి చేసి పాడనా ॥2॥",
+          "నా యేసురాజా - అనురాగ బంధమా",
+          "నను విడువలేని ఆత్మానుబంధమా ॥2॥"
+        ],
+        "transliteration": [
+          "Sthuthi Keerthaneeyuda - Ghanamaina Nee Prema",
+          "Naa Hrudayaveenapai Shruthi Chesi Paadanaa ||2||",
+          "Naa Yesuraaja - Anuraaga Bandhamaa",
+          "Nanu Viduvaleni Aathmaanubandhamaa ||2||"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 1,
+        "telugu": [
+          "నా ప్రియ నేస్తమా - నా ప్రాణ బంధమా",
+          "నీ ప్రేమ కౌగిలిలో నన్నాదరించుమా ॥2॥",
+          "నీ సిలువ త్యాగం నేనెలా మరచిపోదును",
+          "ఇలలోన నీకై సాక్షిగా జీవింతును ॥2॥"
+        ],
+        "transliteration": [
+          "Naa Priya Nesthamaa - Naa Praana Bandhamaa",
+          "Nee Prema Kougililo Nannaadharinchumaa ||2||",
+          "Nee Siluva Thyaagam Nenela Marachipodunu",
+          "Ilalona Neekai Saakshigaa Jeevinthunu ||2||"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 2,
+        "telugu": [
+          "నా నీతిసూర్యుడా - తేజో ప్రకాశమా",
+          "నీ వెలుగు జాడలలో నిను వెంబడించగా ॥2॥",
+          "నీ జీవ వాక్యం నింపెనే నాలో ధైర్యము",
+          "ప్రాణాత్మదేహం సర్వదా నీకే అంకితం ॥2॥"
+        ],
+        "transliteration": [
+          "Naa Neethisooryudaa - Thejo Prakaashamaa",
+          "Nee Velugu Jaadalalo Ninu Vembadinchagaa ||2||",
+          "Nee Jeeva Vaakyam Nimpe Naalo Dhairyamu",
+          "Praanaathmadeham Sarvadaa Neeke Ankhitham ||2||"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 3,
+        "telugu": [
+          "మహిమ సింహాసనం - నే చేరాలనే",
+          "నే కన్న కలలన్నీ నిజమైన వేళలో ॥2॥",
+          "నా జయము నీవై నిలిచినా శ్రేష్ట తరుణాన",
+          "నీలోనే లీనమై పోదునే నిరతము ॥2॥"
+        ],
+        "transliteration": [
+          "Mahima Simhaasanam - Ne Cheraalane",
+          "Ne Kanna Kalalanni Nijamaina Velalo ||2||",
+          "Naa Jayamu Neevai Nilichina Shresta Tharunaana",
+          "Neelone Leenamai Podune Nirathamu ||2||"
+        ]
+      }
+    ]
+  }
+},
+
+{
+  "song": {
+    "title": {
+      "telugu": "దివ్య సఖుడా",
+      "english": "Divya Sakhudaa"
+    },
+    "metadata": {
+      "isNewSong": true,
+      "scale": "F Minor",
+      "language": "Telugu",
+      "videoLink": "https://www.youtube.com/watch?v=DDdwYV0kHyw",
+      "category": "Christian Worship",
+      "audioLink": "",
+      "refrain": {
+        "telugu": "॥ సఖుడా ॥",
+        "transliteration": "|| Sakhudaa ||"
+      }
+    },
+    "sections": [
+      {
+        "sectionType": "chorus",
+        "number": 1,
+        "telugu": [
+          "సఖుడా - దివ్య సఖుడా",
+          "ప్రియుడా - ప్రాణ ప్రియుడా",
+          "నీతో అనుబంధము కాదే ఈ నాటిది",
+          "ఏనాటికీ వీడిపోదు - విభుడా యేసయ్యా",
+          "ఇన్నినాళ్ల తీపి జ్ఞాపిక - పలికే గీతిక"
+        ],
+        "transliteration": [
+          "Sakhudaa - Divya Sakhudaa",
+          "Priyudaa - Praana Priyudaa",
+          "Neetho Anubandhamu Kaade Ee Naatidi",
+          "Enaatiki Veedipodu - Vibhudaa Yesayyaa",
+          "Inninaalla Theepi Gnaapika - Palike Geethika"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 1,
+        "telugu": [
+          "మౌనరాగమే - మధురగానమై",
+          "మరుపురానిదై - మదిలో నిలిచెగా ॥2॥",
+          "ఊహించని శోధనలే - శృతిలయలు నేర్పినాయి",
+          "పలుశ్రమలు నడిపినాయి నీ ప్రేమ శిఖరానికి",
+          "ఏకాంత వేళలో - ఏ కాంతి లేకున్ననూ",
+          "నా పాదములు జారక - కాపాడే యేసయ్యా",
+          "సద్గుణ రాశివి నీవేనని - స్తుతి మహిమలు చెల్లించెదను",
+          "నిత్యము నిను కీర్తించెదను"
+        ],
+        "transliteration": [
+          "Mounaraagame - Madhuragaanamai",
+          "Marupuraanidai - Madilo Nilichegaa ||2||",
+          "Oohinchani Shodhanale - Shruthilayalu Nerpinaayi",
+          "Palushramalu Nadipinaayi Nee Prema Shikharaaniki",
+          "Ekaantha Velalo - E Kaanthi Lekunnanu",
+          "Naa Paadamulu Jaaraka - Kaapaade Yesayyaa",
+          "Sadguna Raashivi Neevenani - Sthuthi Mahimalu Chellinchedanu",
+          "Nithyamu Ninu Keerthinchedanu"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 2,
+        "telugu": [
+          "నిండు మనస్సులో - ప్రేమ దీపమై",
+          "మారుమనస్సుకై - సత్యమార్గమై ॥2॥",
+          "పలికే ప్రేమనీవే - నీవు నాతో నున్నావు",
+          "నా హృదయసీమ నేలే - మహారాజుగా నిలిచావు",
+          "నీవు నా ముందుగా - నడిచే కాపరిగా",
+          "నా చేయి వీడకా - నడిపించే యేసయ్యా",
+          "సద్గుణ రాశివి నీవేనని - స్తుతి మహిమలు చెల్లించెదను",
+          "నిత్యము నిను కీర్తించెదను"
+        ],
+        "transliteration": [
+          "Nindu Manassulo - Prema Deepamai",
+          "Maarumanassukai - Sathyamaargamai ||2||",
+          "Palike Premaneeve - Neevu Naatho Nunnaavu",
+          "Naa Hrudayaseema Nele - Mahaaraajugaa Nilichaavu",
+          "Neevu Naa Mundugaa - Nadiche Kaaparigaa",
+          "Naa Cheyi Veedakaa - Nadipinche Yesayyaa",
+          "Sadguna Raashivi Neevenani - Sthuthi Mahimalu Chellinchedanu",
+          "Nithyamu Ninu Keerthinchedanu"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 3,
+        "telugu": [
+          "రమ్యమైనది - భాగ్యమైనది",
+          "నిత్యమైనది - సరిపోల్చలేనిది ॥2॥",
+          "నీ మహిమ రాజ్యమందు - సీయోను శిఖరమందు",
+          "నే పరవశించి పాడే - గొప్ప భాగ్యమిచ్చినావు",
+          "నూతనమైనది - ఎవరూ పాడలేని",
+          "శ్రేష్టమైన గీతం - నే పాడెద యేసయ్యా",
+          "సద్గుణ రాశివి నీవేనని - స్తుతి మహిమలు చెల్లించెదను",
+          "నిత్యము నిను కీర్తించెదను"
+        ],
+        "transliteration": [
+          "Ramyamainadi - Baagyamainadi",
+          "Nithyamainadi - Saripolchalaynidi ||2||",
+          "Nee Mahima Raajyamandu - Seeyonu Shikharamandu",
+          "Ne Paravashinchi Paade - Goppa Baagyamichinaavu",
+          "Noothanamainadi - Evaroo Paadaleni",
+          "Shrestamaina Geetham - Ne Paadeda Yesayyaa",
+          "Sadguna Raashivi Neevenani - Sthuthi Mahimalu Chellinchedanu",
+          "Nithyamu Ninu Keerthinchedanu"
+        ]
+      }
+    ]
+  }
+},
+
+{
+  "song": {
+    "title": {
+      "telugu": "ఇశ్రాయేలు కాపరి",
+      "english": "Ishraayelu Kaapari"
+    },
+    "metadata": {
+      "isNewSong": true,
+      "scale": "D Major",
+      "language": "Telugu",
+      "videoLink": "https://www.youtube.com/watch?v=BKozbL42o5M",
+      "category": "Christian Worship",
+      "audioLink": "",
+      "refrain": {
+        "telugu": "॥ సహాయకుడా ॥",
+        "transliteration": "|| Sahaayakudaa ||"
+      }
+    },
+    "sections": [
+      {
+        "sectionType": "chorus",
+        "number": 1,
+        "telugu": [
+          "అబ్రహాము నమ్మిన దేవుడా",
+          "నా పితరుల ఆరాధ్య దైవమా",
+          "ఇశ్రాయేలు కాపరి - బహుగొప్ప నేర్పరి",
+          "నీకు సాటియెవరు యేసయ్యా",
+          "సహాయకుడా నిత్యస్తోత్రార్హుడా - ప్రభాకరుడా బహు బలవంతుడా",
+          "సత్యవంతుడా మహా పరిశుద్ధుడా - ఆరాధనకు యోగ్యుడా"
+        ],
+        "transliteration": [
+          "Abrahaamu Nammina Devudaa",
+          "Naa Pitharula Aaraadhya Daivamaa",
+          "Ishraayelu Kaapari - Bahugoppa Nerpari",
+          "Neeku Saatiyevaru Yesayyaa",
+          "Sahaayakudaa Nithyasthothraarhudaa - Prabhaakarudaa Bahu Balavanthudaa",
+          "Sathyavanthudaa Mahaa Parishuddhudaa - Aaraadhanaku Yogyudaa"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 1,
+        "telugu": [
+          "నీలి మేఘమును నీడగా మార్చి",
+          "అగ్నిస్తంభమును కాంతిగా నిలిపి ॥2॥",
+          "సైన్యములకు నీవే సారధిగా నిలిచి",
+          "నింగినంటిన గోడలు కుప్పగా కూల్చిన",
+          "మా పక్షమైయున్న - మహారాజువు నీవే",
+          "నీకు సాధ్యము కానిది ఏదైనా కలదా"
+        ],
+        "transliteration": [
+          "Neeli Meghamunu Needagaa Maarchi",
+          "Agnisthambhamunu Kaanthigaa Nilipi ||2||",
+          "Sainyamulaku Neeve Saaradhigaa Nilichi",
+          "Ninginantina Godalu Kuppagaa Koolchina",
+          "Maa Pakshamaiyunna - Mahaaraajuvu Neeve",
+          "Neeku Saadhyamu Kaanidi Edainaa Kaladaa"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 2,
+        "telugu": [
+          "నిరాశ్రయులకు నీవే నిత్యాశ్రయమై",
+          "నిరాశల నీడను తొలగించెదవు ॥2॥",
+          "విస్తారమైన నీ కృపలతో నింపి",
+          "నిస్సారమైన బ్రతుకును మార్చెదవు",
+          "విజయోత్సవముతో ఊరేగించెదవు",
+          "నీకు సాధ్యము కానిది ఏదైనా కలదా"
+        ],
+        "transliteration": [
+          "Niraashrayulaku Neeve Nithyaashrayamai",
+          "Niraashala Needanu Tholaginchedavu ||2||",
+          "Visthaaramaina Nee Krupalatho Nimpi",
+          "Nissaaramaina Brathukunu Maarchedavu",
+          "Vijayothsavamutho Ooreginchedavu",
+          "Neeku Saadhyamu Kaanidi Edainaa Kaladaa"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 3,
+        "telugu": [
+          "సాత్వికముతో - ధీర్ఘశాంతముతో",
+          "విసుగక నాయెడల వాత్సల్యము చూపి ॥2॥",
+          "ఒంటరిగా నన్ను ఎన్నడు విడువక",
+          "వేదనలో నన్ను దాటి వెళ్లక",
+          "తల్లివలె ఒడిలో లాలించువాడవు",
+          "తీరని నీ రుణము వివరింప తరమా"
+        ],
+        "transliteration": [
+          "Saathvikamutho - Dheerghashaanthamutho",
+          "Visugaka Naayedala Vaathsalyamu Choopi ||2||",
+          "Ontarigaa Nannu Ennadu Viduvaka",
+          "Vedanalo Nannu Daathi Vellaka",
+          "Thallivale Odilo Aalinchuvaadavu",
+          "Theerani Nee Runamu Vivarimpa Tharamaa"
+        ]
+      }
+    ]
+  }
+},
+
+{
+  "song": {
+    "title": {
+      "telugu": "కరుణ కటాక్షము",
+      "english": "Karuna Katakshamu"
+    },
+    "metadata": {
+      "isNewSong": true,
+      "scale": "D Minor",
+      "language": "Telugu",
+      "videoLink": "https://www.youtube.com/watch?v=IXozDKWeML0",
+      "category": "Christian Worship",
+      "audioLink": "",
+      "refrain": {
+        "telugu": "॥ కరుణ ॥",
+        "transliteration": "|| Karuna ||"
+      }
+    },
+    "sections": [
+      {
+        "sectionType": "chorus",
+        "number": 1,
+        "telugu": [
+          "కరుణ కటాక్షము గల యేసయ్యా",
+          "నను విస్తరింపజేయు మహనీయ 2",
+          "దివ్య సుందరము - దయకు నిలయము - దివిలో కాంతి తేజమా",
+          "పరిమళ నామము - ప్రేమకు నిలయము - పరిశుద్ధ స్తుతి గానమా"
+        ],
+        "transliteration": [
+          "Karuna Katakshamu Gala Yesayyaa",
+          "Nanu Vistharimpajeyu Mahaneeya 2",
+          "Divya Sundaramu - Dayaku Nilayamu - Divilo Kaanthi Thejamaa",
+          "Parimala Naamamu - Premaku Nilayamu - Parishuddha Sthuthi Gaanamaa"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 1,
+        "telugu": [
+          "ఏమున్నదని నాపై లక్ష్యముంచినావు",
+          "ఆదరించి ప్రేమించి కటాక్షించినావు ॥2॥",
+          "నీ రెక్కల నీడే సురక్షితం - నీ పాద సన్నిధి క్షేమము ॥2॥",
+          "కృపవెంబడి కృపను - నిత్యమైన ప్రేమను",
+          "అధికమైన మహిమను విస్తరింపజేసావు ॥2॥"
+        ],
+        "transliteration": [
+          "Emunnadani Naapai Lakshyamunchinaavu",
+          "Aadharinchi Preminchi Katakshinchinaavu ||2||",
+          "Nee Rekkala Neede Surakshitham - Nee Paada Sannidhi Kshemamu ||2||",
+          "Krupavembadi Krupanu - Nithyamaina Premanu",
+          "Adhikamaina Mahimanu Vistharimpajesaavu ||2||"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 2,
+        "telugu": [
+          "నేనెంతటి వాడనని ఇంతగ హెచ్చించావు",
+          "ఏలుటకు ఎన్నుకొని అభిషేకించావు ॥2॥",
+          "నీ ఇష్టముగా నివసించెదను - నీ ఉద్దేశము నే మరువను ॥2॥",
+          "కృపవెంబడి కృపను - నిత్యమైన ప్రేమను",
+          "అధికమైన మహిమను విస్తరింపజేసావు ॥2॥"
+        ],
+        "transliteration": [
+          "Nenenthathi Vaadanani Inthaga Hechhinchaavu",
+          "Elutaku Ennukoni Abhishekinchaavu ||2||",
+          "Nee Ishtamugaa Nivasinchedanu - Nee Uddheshamu Ne Maruvanu ||2||",
+          "Krupavembadi Krupanu - Nithyamaina Premanu",
+          "Adhikamaina Mahimanu Vistharimpajesaavu ||2||"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 3,
+        "telugu": [
+          "ఏ యోగ్యత లేని నాకు తోడుగ నిలిచావు",
+          "నింద అవమానములలో ఘనతనిచ్చినావు ॥2॥",
+          "నీ నడిపింపుకు లోబడితిని - నీ స్వాస్థ్యముకై వేచియుంటిని ॥2॥",
+          "కృపవెంబడి కృపను - నిత్యమైన ప్రేమను",
+          "అధికమైన మహిమను విస్తరింపజేసావు ॥2॥"
+        ],
+        "transliteration": [
+          "E Yogyatha Leni Naaku Thoduga Nilichaavu",
+          "Ninda Avamaanamulalo Ghanathanichinaavu ||2||",
+          "Nee Nadipimpuku Lobadithini - Nee Swaasthyamukai Vechiyuntini ||2||",
+          "Krupavembadi Krupanu - Nithyamaina Premanu",
+          "Adhikamaina Mahimanu Vistharimpajesaavu ||2||"
+        ]
+      }
+    ]
+  }
+},
+{
+  "song": {
+    "title": {
+      "telugu": "ఏల్ ఎలోహీం నీవే",
+      "english": "El Elohim Neeve"
+    },
+    "metadata": {
+      "isNewSong": true,
+      "scale": "E Minor",
+      "language": "Telugu",
+      "videoLink": "https://www.youtube.com/watch?v=ABSaUS53uTM",
+      "category": "Christian Worship",
+      "audioLink": "",
+      "refrain": {
+        "telugu": "॥ హల్లెలూయా ॥",
+        "transliteration": "|| Hallelujah ||"
+      }
+    },
+    "sections": [
+      {
+        "sectionType": "chorus",
+        "number": 1,
+        "telugu": [
+          "మహోఘనుడా యెహోవా - మనోహరుడా యేసయ్యా",
+          "ప్రభుప్రేమ నాలో నింపుటకే - దిగివచ్చినావు మహిమాత్ముడా",
+          "త్రిత్వమై జీవించువాడవు - కీర్తించి మహిమపరతును",
+          "స్తుతించి ఆరాధింతును - నీకే నా ఆరాధన - హల్లెలూయా -",
+          "ఏల్ ఎలోహీం నీవే - ఎల్షడ్డాయ్ దేవుడవు - ఎబినేజరువు నీవే",
+          "స్తుతి ఘనత మహిమ నీకే"
+        ],
+        "transliteration": [
+          "Mahoghanudaa Yehovaa - Manoharudaa Yesayyaa",
+          "Prabhuprema Naalo Nimputake - Digivachinaavu Mahimaathmudaa",
+          "Thrithvamai Jeevinchuvaadavu - Keerthinchi Mahimaparasthunu",
+          "Sthuthinchi Aaraadhinthunu - Neeke Naa Aaraadhana - Hallelujah -",
+          "El Elohim Neeve - Elshadday Devudavu - Ebinejaruvu Neeve",
+          "Sthuthi Ghanatha Mahima Neeke"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 1,
+        "telugu": [
+          "నవనూతనమైన కార్యాలు చేసేది నీవేగా - నీవేగా",
+          "అత్యున్నతమైన స్థలములపై నడిపేది నీవేగా - నీవేగా",
+          "విధినే ఛేదించి నీవు - భువినే వెలిగించగా",
+          "స్తుతినే నానోట పలికించి - బహుగా దీవించగా గళమెత్తి కీర్తింతును"
+        ],
+        "transliteration": [
+          "Navanoothanamaina Kaaryaalu Chesedi Neevegaa - Neevegaa",
+          "Athyunnathamaina Sthalamulapai Nadipedi Neevegaa - Neevegaa",
+          "Vidhine Chedinchi Neevu - Bhuvine Veliginchagaa",
+          "Sthuthine Naanota Palikinchi - Bahugaa Deevinchagaa Galametthi Keerthinthunu"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 2,
+        "telugu": [
+          "కొండైనా లోయైనా సమభూమి చేసేది నీవేగా - నీవేగా",
+          "ఇబ్బంది కొలిమిలో నిర్మలము చేసినది నీవేగా - నీ వాక్యేగా",
+          "శ్రమలే నను వేధించిననూ కలతలే బాధించినా",
+          "కృపయే క్షణమైనా విడువక - మహిమకే చేర్పించునని నిరీక్షించి కీర్తింతును"
+        ],
+        "transliteration": [
+          "Kondainaa Loyainaa Samabhoomi Chesedi Neevegaa - Neevegaa",
+          "Ibbandi Kolimilo Nirmalamu Chesinadi Neevegaa - Nee Vaakyegaa",
+          "Shramale Nanu Vedhinchinanoo Kalathale Baadhinchinaa",
+          "Krupaye Kshanamainaa Viduvaka - Mahimake Cherpinchunani Nireekshinchi Keerthinthunu"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 3,
+        "telugu": [
+          "ఐశ్వర్య ఘనతలు దయచేయువాడవు నీవేగా - నీవేగా",
+          "నీ మందిరములోని మేలులతో నింపేది నీవేగా - నా దేవా",
+          "నీవే భూమ్యాకాశములు పట్టజాలని దేవుడవు",
+          "నీవే సమాధానప్రభువై - ఏలే మహారాజువు - నీ కీర్తి కీర్తింతును"
+        ],
+        "transliteration": [
+          "Aishwarya Ghanathalu Dayacheyuvaadavu Neevegaa - Neevegaa",
+          "Nee Mandiramuloni Melulatho Nimpedi Neevegaa - Naa Devaa",
+          "Neeve Bhoomyaakaashamulu Pattajaalani Devudavu",
+          "Neeve Samaadhaanaprabhuvai - Ele Mahaaraajuvu - Nee Keerthi Keerthinthunu"
+        ]
+      }
+    ]
+  }
+},
+{
+    "song": {
+      "title": {
+        "telugu": "ఇదిగో నా జీవితం",
+        "english": "Idigo Naa Jeevitham"
+      },
+      "metadata": {
+        "isNewSong": true,
+        "scale": "G Major",
+        "language": "Telugu",
+        "category": "Christian Worship",
+        "audioLink": "",
+        "videoLink":"https://www.youtube.com/watch?v=UlmOaHGtw2M",
+        "refrain": {
+          "telugu": "||ఇదిగో||",
+          "transliteration": "||Idigo||"
+        }
+      },
+      "sections": [
+        {
+          "sectionType": "chorus",
+          "number": 1,
+          "telugu": [
+            "ఇదిగో నా జీవితం దేవా నీ కంకితం - ప్రతిక్షణం నీ కృపనే",
+            "నేడుకొనే నా ఒక్కటే ఆశ - నీ ప్రతిబింబము నేనై ఉండాలని",
+            "ఆరాధించుట నా హృదయముతో",
+            "నిన్ను ఘనపరచుట నా జీవితాంతము",
+            "యేసయ్యా యేసయ్యా యేసయ్యా",
+            "నా యేసయ్యా యేసయ్యా యేసయ్యా"
+          ],
+          "transliteration": [
+            "Idigo Naa Jeevitham Deva Nee Kankitham - Prathikshanam Nee Krupane",
+            "Nedukone Naa Okkate Aasha - Nee Prathibimbamu Nenai Undalani",
+            "Aaraadhinchuta Naa Hrudayamutho",
+            "Ninnu Ghanaparachuta Naa Jeevithaanthamu",
+            "Yesayya Yesayya Yesayya",
+            "Naa Yesayya Yesayya Yesayya"
+          ]
+        },
+        {
+          "sectionType": "verse",
+          "number": 1,
+          "telugu": [
+            "కష్టాలనే చూచాక - నీ ప్రేమనే నేనడిగాక",
+            "కటికచీకటి రేయి నడువగా",
+            "నన్ను ప్రేమింప ఎవరూలేక (2)",
+            "నే కానేరని వేలై మనుషుల మధ్యన",
+            "ఎన్నాళ్ళీగ ఉండాలో అనిపిస్తే",
+            "ఎందుకో ఎంతో ప్రేమించావు (2)"
+          ],
+          "transliteration": [
+            "Kashtaalane Chuchaaka - Nee Premane Nenadigaaka",
+            "Katikacheekati Reyi Naduvagaa",
+            "Nannu Premimpa Evarooleka (2)",
+            "Ne Kanerani Velai Manushula Madhyana",
+            "Ennaalleega Undalo Anipisthe",
+            "Enduko Entho Preminchaavu (2)"
+          ]
+        },
+        {
+          "sectionType": "verse",
+          "number": 2,
+          "telugu": [
+            "అపవిత్ర నీ స్వరము నా మదిలోన విన్నాక",
+            "మరకలెన్నో కల్గిన నేనేనని",
+            "తలలోవంచాను తండ్రి నాకంట (2)",
+            "మలినము మించిన కృపను నాపైని",
+            "నీదు మాటలతో మార్చావు నన్ను",
+            "ప్రియమై నిలువకున నీ బిడ్డనని (2)"
+          ],
+          "transliteration": [
+            "Apavithra Nee Swaramu Naa Madilona Vinnaaka",
+            "Marakalenno Kalguina Nenenani",
+            "Thalalovanchaanu Thandri Naakanta (2)",
+            "Malinamu Minchina Krupanu Naapaini",
+            "Needu Maathalatho Maarchaavu Nannu",
+            "Priyamai Niluvakuna Nee Biddanani (2)"
+          ]
+        },
+        {
+          "sectionType": "verse",
+          "number": 3,
+          "telugu": [
+            "సృష్టాది క్రీస్తునాథా సర్వసృష్టికి మూలమాయెనా",
+            "స్వయమొచ్చాను సమాధాన నీ ద్వారమున",
+            "సద్గుణములనే నింపము నాలో (2)",
+            "సర్వశక్తుడవేకు నేనిక నేనే",
+            "ప్రేమమూర్తివైన యేసు నీలో దాగిన సజీవసాక్షినై (2)"
+          ],
+          "transliteration": [
+            "Srushtaadi Kreesthunaatha Sarvasrushtiki Moolamaayena",
+            "Swayamochhaanu Samaadhaana Nee Dwaaramuna",
+            "Sadgunamulane Nimpamu Naalo (2)",
+            "Sarvashakthudaveku Nenika Nene",
+            "Premamoorthivaina Yesu Neelo Daagina Sajeevasaakshinai (2)"
+          ]
+        }
+      ]
+    }
+ }
 ]
