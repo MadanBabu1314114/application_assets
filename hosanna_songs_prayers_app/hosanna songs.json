@@ -21030,86 +21030,90 @@
           "transliteration": "||Idigo||"
         }
       },
-      "sections": [
-        {
-          "sectionType": "chorus",
-          "number": 1,
-          "telugu": [
-            "ఇదిగో నా జీవితం దేవా నీ కంకితం - ప్రతిక్షణం నీ కృపనే",
-            "నేడుకొనే నా ఒక్కటే ఆశ - నీ ప్రతిబింబము నేనై ఉండాలని",
-            "ఆరాధించుట నా హృదయముతో",
-            "నిన్ను ఘనపరచుట నా జీవితాంతము",
-            "యేసయ్యా యేసయ్యా యేసయ్యా",
-            "నా యేసయ్యా యేసయ్యా యేసయ్యా"
-          ],
-          "transliteration": [
-            "Idigo Naa Jeevitham Deva Nee Kankitham - Prathikshanam Nee Krupane",
-            "Nedukone Naa Okkate Aasha - Nee Prathibimbamu Nenai Undalani",
-            "Aaraadhinchuta Naa Hrudayamutho",
-            "Ninnu Ghanaparachuta Naa Jeevithaanthamu",
-            "Yesayya Yesayya Yesayya",
-            "Naa Yesayya Yesayya Yesayya"
-          ]
-        },
-        {
-          "sectionType": "verse",
-          "number": 1,
-          "telugu": [
-            "కష్టాలనే చూచాక - నీ ప్రేమనే నేనడిగాక",
-            "కటికచీకటి రేయి నడువగా",
-            "నన్ను ప్రేమింప ఎవరూలేక (2)",
-            "నే కానేరని వేలై మనుషుల మధ్యన",
-            "ఎన్నాళ్ళీగ ఉండాలో అనిపిస్తే",
-            "ఎందుకో ఎంతో ప్రేమించావు (2)"
-          ],
-          "transliteration": [
-            "Kashtaalane Chuchaaka - Nee Premane Nenadigaaka",
-            "Katikacheekati Reyi Naduvagaa",
-            "Nannu Premimpa Evarooleka (2)",
-            "Ne Kanerani Velai Manushula Madhyana",
-            "Ennaalleega Undalo Anipisthe",
-            "Enduko Entho Preminchaavu (2)"
-          ]
-        },
-        {
-          "sectionType": "verse",
-          "number": 2,
-          "telugu": [
-            "అపవిత్ర నీ స్వరము నా మదిలోన విన్నాక",
-            "మరకలెన్నో కల్గిన నేనేనని",
-            "తలలోవంచాను తండ్రి నాకంట (2)",
-            "మలినము మించిన కృపను నాపైని",
-            "నీదు మాటలతో మార్చావు నన్ను",
-            "ప్రియమై నిలువకున నీ బిడ్డనని (2)"
-          ],
-          "transliteration": [
-            "Apavithra Nee Swaramu Naa Madilona Vinnaaka",
-            "Marakalenno Kalguina Nenenani",
-            "Thalalovanchaanu Thandri Naakanta (2)",
-            "Malinamu Minchina Krupanu Naapaini",
-            "Needu Maathalatho Maarchaavu Nannu",
-            "Priyamai Niluvakuna Nee Biddanani (2)"
-          ]
-        },
-        {
-          "sectionType": "verse",
-          "number": 3,
-          "telugu": [
-            "సృష్టాది క్రీస్తునాథా సర్వసృష్టికి మూలమాయెనా",
-            "స్వయమొచ్చాను సమాధాన నీ ద్వారమున",
-            "సద్గుణములనే నింపము నాలో (2)",
-            "సర్వశక్తుడవేకు నేనిక నేనే",
-            "ప్రేమమూర్తివైన యేసు నీలో దాగిన సజీవసాక్షినై (2)"
-          ],
-          "transliteration": [
-            "Srushtaadi Kreesthunaatha Sarvasrushtiki Moolamaayena",
-            "Swayamochhaanu Samaadhaana Nee Dwaaramuna",
-            "Sadgunamulane Nimpamu Naalo (2)",
-            "Sarvashakthudaveku Nenika Nene",
-            "Premamoorthivaina Yesu Neelo Daagina Sajeevasaakshinai (2)"
-          ]
-        }
+     
+  "sections": [
+    {
+      "sectionType": "chorus",
+      "number": 1,
+      "telugu": [
+        "ఇదిగో నా జీవితం దేవా నికంకితం",
+        "బ్రతుకైనా చావైన నీకోసమే",
+        "నాకున్నది నీవొక్కడవే",
+        "నే బ్రతికేందుకు నీ ప్రేమ చాలయా",
+        "ఆరాధింతును నా పూర్ణ హృదయముతో",
+        "నిన్ను ఘణపరుతును నా జీవితాంతము",
+        "యేసయ్య యేసయ్య యేసయ్య",
+        "నా యేసయ్య యేసయ్య యేసయ్య"
+      ],
+      "transliteration": [
+        "Idigo Naa Jeevitham Deva Nikankitham",
+        "Brathukainaa Chaavainaa Neekosame",
+        "Naakunnadhi Neevokkadeve",
+        "Ne Brathikenduku Nee Prema Chaalayaa",
+        "Aaraadhinthunu Naa Poorna Hrudayamutho",
+        "Ninnu Ghanaparuthunu Naa Jeevithaanthamu",
+        "Yesayya Yesayya Yesayya",
+        "Naa Yesayya Yesayya Yesayya"
       ]
+    },
+    {
+      "sectionType": "verse",
+      "number": 1,
+      "telugu": [
+        "నీ వైపే నే చూడక నీ ప్రేమే నేనేరుగక",
+        "శిధిలమైన శిలనై నేనుండగా",
+        "నన్ను ప్రేమించగా వెంటాడితివి",
+        "నీ కౌగిట చేర్చి మనిషిగా మార్చితివి",
+        "యేన్నాళ్లుగా నాకై వేచిఉన్నావు",
+        "ఎందుకని ఇంత ప్రేమించితివి"
+      ],
+      "transliteration": [
+        "Nee Vaipe Ne Choodaka Nee Preme Nenerugaka",
+        "Shidhilamaina Shilanai Nenundagaa",
+        "Nannu Preminchagaa Ventaadithivi",
+        "Nee Kaugita Cherchi Manishigaa Maarchithivi",
+        "Yennaallugaa Naakai Vechiunnavu",
+        "Endukani Intha Preminchithivi"
+      ]
+    },
+    {
+      "sectionType": "verse",
+      "number": 2,
+      "telugu": [
+        "దివ్యమైన స్నేహం నా మదిలోని కావ్యం",
+        "పరిమళించు పద్మం నీవేనయ్యా",
+        "ఊహల రెక్కలకు ఊపిరి పోసితివి",
+        "ఊహకు మించిన స్థానము నిచ్చితివి",
+        "ఏమి చూచితివి యోగ్యత నాలో",
+        "ఏమిచ్చి నీ రుణము నే తీర్చేదను"
+      ],
+      "transliteration": [
+        "Divyamaina Sneham Naa Madhiloni Kaavyam",
+        "Parimalinchu Padmam Neevenayyaa",
+        "Oohala Rekkalaku Oopiri Posithivi",
+        "Oohaku Minchina Sthaanamu Nichithivi",
+        "Emichoochithivi Yogyatha Naalo",
+        "Emichi Nee Runamu Ne Theerchedhanu"
+      ]
+    },
+    {
+      "sectionType": "verse",
+      "number": 3,
+      "telugu": [
+        "స్తుతులపై ఆసీనుడా పరిశుద్ధత లో మహనీయుడా",
+        "స్వర మండలము సితారతో నిన్ను కీర్తింతును",
+        "సద్గుణములకు నిలయం నీవే సర్వాది పతులకు సారధి నీవే",
+        "దైవములనబడిన వారికి దేవుడవు మహా దేవుడవు"
+      ],
+      "transliteration": [
+        "Sthuthulapai Aaseenudaa Parishuddhatha Lo Mahaneeyudaa",
+        "Swara Mandalamu Sithaaratho Ninnu Keerthinthunu",
+        "Sadgunamulaku Nilayam Neeve Sarvaadhi Pathulaku Saaradhi Neeve",
+        "Daivamulanabadina Vaariki Devudavu Mahaa Devudavu"
+      ]
+    }
+  ]
+
     }
  }
 ]
