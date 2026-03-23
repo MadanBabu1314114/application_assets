@@ -21115,5 +21115,92 @@
   ]
 
     }
- }
+},
+
+  {
+  "song": {
+    "title": {
+      "telugu": "ఇశ్రాయేలు రాజా నీకే స్తోత్రము",
+      "english": "Ishrayelu Raajaa Neeke Sthothramu"
+    },
+    "metadata": {
+      "isNewSong": true,
+      "scale": "D Minor",
+      "language": "Telugu",
+      "category": "Christian Worship",
+      "audioLink": "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/36%20Soudhrya%20purnuda/Hosanna%20New%20Song%20-%20Israyelu%20Raja%20-%20%E0%B0%87%E0%B0%B6%E0%B1%8D%E0%B0%B0%E0%B0%BE%E0%B0%AF%E0%B1%87%E0%B0%B2%E0%B1%81%20%E0%B0%B0%E0%B0%BE%E0%B0%9C%E0%B0%BE%20%20Bro%20Yesanna%20Birthday%20Special%20%20Ps%20Freddy%20Paul%20-%20HOSANNA%20MINISTRIES%20KURNOOL.mp3",
+      "videoLink": "https://www.youtube.com/watch?v=t-LxjQpU0CQ&list=RDt-LxjQpU0CQ&start_radio=1",
+      "refrain": {
+        "telugu": "||ఇశ్రాయేలు రాజా||",
+        "transliteration": "||Ishrayelu Raajaa||"
+      }
+    },
+    "sections": [
+      {
+        "sectionType": "chorus",
+        "number": 1,
+        "telugu": [
+          "ఇశ్రాయేలు రాజా నీకే స్తోత్రము -",
+          "దావీదు తనయ నీకే స్తోత్రము",
+          "పరిశుద్ధాత్మ దేవా నీకే స్తోత్రము",
+          "త్రియేక దేవా స్తుతి స్తోత్రము"
+        ],
+        "transliteration": [
+          "Ishrayelu Raajaa Neeke Sthothramu -",
+          "Daaveedu Thanaya Neeke Sthothramu",
+          "Parishuddhaathma Devaa Neeke Sthothramu",
+          "Thriyeka Devaa Sthuthi Sthothramu"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 1,
+        "telugu": [
+          "నా సృష్టి కర్తవు నీవే దేవా -",
+          "నా శాసన కర్తవు నీవే ప్రభు",
+          "నా తండ్రి నీవే - నా తల్లి నీవే",
+          "నా ప్రతిరూపము నీవే"
+        ],
+        "transliteration": [
+          "Naa Srushti Karthavu Neeve Devaa -",
+          "Naa Shaasana Karthavu Neeve Prabhu",
+          "Naa Thandri Neeve - Naa Thalli Neeve",
+          "Naa Prathiroopamu Neeve"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 2,
+        "telugu": [
+          "నా రక్షణ కర్తవు నీవే యేసయ్య-",
+          "నా ఆలోచన కర్తవు నీవే మెస్సయ్య",
+          "నా జీవం నీవే - నిత్యజీవం నీవే",
+          "నా అణువణువు నీవే"
+        ],
+        "transliteration": [
+          "Naa Rakshana Karthavu Neeve Yesayya -",
+          "Naa Aalochana Karthavu Neeve Messayya",
+          "Naa Jeevam Neeve - Nithyajeevam Neeve",
+          "Naa Anuvanuvu Neeve"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 3,
+        "telugu": [
+          "నా ఆదరణ కర్త పరిశుద్ధాత్ముడా -",
+          "నా సమాధాన కర్త షాలేము రాజా",
+          "నా తోడు నీవే - నా నీడవు నీవే",
+          "నా ఆత్మ దీపము నీవే"
+        ],
+        "transliteration": [
+          "Naa Aadarana Kartha Parishuddhaatmudaa -",
+          "Naa Samaadhaana Kartha Shaalemu Raajaa",
+          "Naa Thodu Neeve - Naa Needavu Neeve",
+          "Naa Aathma Deepamu Neeve"
+        ]
+      }
+    ]
+  }
+}
 ]
