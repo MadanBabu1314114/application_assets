@@ -21202,5 +21202,95 @@
       }
     ]
   }
+} , 
+  {
+  "song": {
+    "title": {
+      "telugu": "నా హృదయమా నా ప్రాణమా",
+      "english": "Naa Hrudayamaa Naa Praanamaa"
+    },
+    "metadata": {
+      "isNewSong": true,
+      "scale": "G Minor",
+      "language": "Telugu",
+      "category": "Christian Worship",
+      "audioLink":  "https://github.com/MadanBabu1314114/Hosanna-ministers-Songs/raw/refs/heads/master/36%20Soudhrya%20purnuda/Hosanna%20Good%20Friday%20New%20Song%20-%20%E0%B0%A8%E0%B0%BE%20%E0%B0%B9%E0%B1%83%E0%B0%A6%E0%B0%AF%E0%B0%AE%E0%B0%BE%20-%20Naa%20Hrudayamaa%20%20Pastor%20Ramesh%20anna%20-%20Ramesh%20Hosanna%20Ministries.mp3",
+      "videoLink":"https://www.youtube.com/watch?v=-JrLDJiu17I",
+      "refrain": {
+        "telugu": "||నా హృదయమా||",
+        "transliteration": "||Naa Hrudayamaa||"
+      }
+    },
+    "sections": [
+      {
+        "sectionType": "chorus",
+        "number": 1,
+        "telugu": [
+          "నా హృదయమా - నా ప్రాణమా",
+          "నా స్వాసతో - అనుబంధమ",
+          "నా కొరకే నరరూపివై - నా పాప భరము మోసి",
+          "నా కొరకు బలియైనది నీవే - నా యేసయ్యా"
+        ],
+        "transliteration": [
+          "Naa Hrudayamaa - Naa Praanamaa",
+          "Naa Swaasatho - Anubandhama",
+          "Naa Korake Nararoopivai - Naa Paapa Bharamu Mosi",
+          "Naa Koraku Baliyainadi Neeve - Naa Yesayyaa"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 1,
+        "telugu": [
+          "చిందిన నీ రక్తం - పారెను సెలయేరై",
+          "చీల్చ బడిన దేహం - ఓర్చెను ఆభారం",
+          "శిక్షకుపాత్రుడనైన - నను రక్షించుటకా",
+          "చిత్రవదచేసిన - మౌనిగ నిలిచినది",
+          "ఎవరు - నాపై - చూపని ప్రేమే కదా",
+          "ప్రేమామయా - తేజోమయా",
+          "నీ ప్రేమయంత భలము",
+          "నీ త్యాగమెంత ఘనము",
+          "నీ ప్రేమకు నే రుణపడి ఉన్నాను - నా యేసయ్యా"
+        ],
+        "transliteration": [
+          "Chindina Nee Raktham - Paarenu Selayerai",
+          "Cheelcha Badina Deham - Orchenu Aabhaaram",
+          "Sikshakupaathrudanaina - Nanu Rakshinchutakaa",
+          "Chithravadachesina - Mouniga Nilichinadi",
+          "Evaru - Naapai - Choopani Preme Kadaa",
+          "Premaamayaa - Thejomayaa",
+          "Nee Premayantha Bhalamu",
+          "Nee Thyaagamentha Ghanamu",
+          "Nee Premaku Ne Runapadi Unnaanu - Naa Yesayyaa"
+        ]
+      },
+      {
+        "sectionType": "verse",
+        "number": 2,
+        "telugu": [
+          "చేదు చిరకనిచ్చి - నిను అవమానించిరిగా",
+          "స్వార్థ పరుల అహమే - గెలిచిన ఆవేల",
+          "తులువలనే క్షమించెను - నీ దైవత్వము",
+          "తుదిశ్వాసవరకు ప్రేమించెను నీ దాతృత్వము",
+          "నీకే నీకే అది సాధ్యమైనది",
+          "ప్రేమామయా - తేజోమయా",
+          "నీ ప్రేమయంత భలము",
+          "నీ త్యాగమెంత ఘనము",
+          "నే వివరించలేనయ్యా నా యేసయ్యా"
+        ],
+        "transliteration": [
+          "Chedu Chirakanichchi - Ninu Avamaaninchirigaa",
+          "Swaartha Parula Ahame - Gelichina Aavela",
+          "Thuluvalane Kshminchenu - Nee Daivathvamu",
+          "Thudishwaasavaraku Preminchenu Nee Daathruthvamu",
+          "Neeke Neeke Adi Saadhyamainadi",
+          "Premaamayaa - Thejomayaa",
+          "Nee Premayantha Bhalamu",
+          "Nee Thyaagamentha Ghanamu",
+          "Ne Vivarinchalenayyaa Naa Yesayyaa"
+        ]
+      }
+    ]
+  }
 }
 ]
